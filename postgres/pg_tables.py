@@ -1,6 +1,4 @@
-def create_tables(conn):
-    cursor = conn.cursor()
-
+def create_tables(cursor):
     # create movies table
     create_movies_query = f"""
         drop table if exists movie_production_countries;
@@ -36,7 +34,7 @@ def create_tables(conn):
             id bigInt not null,
             imdb_id varchar(255),
             original_title varchar(255),
-            overview varchar(255),
+            overview text,
             original_language varchar(5),
             budget int,
             homepage varchar(255),
