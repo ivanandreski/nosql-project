@@ -1,0 +1,4727 @@
+{
+"movie_production_countries": [
+	{
+		"movie_id" : 862,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8844,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15602,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31357,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11862,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 949,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11860,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 11860,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 45325,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9091,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 710,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 710,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9087,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12110,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 12110,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 21032,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10858,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1408,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 1408,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 1408,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 1408,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 524,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 524,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4584,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 4584,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9273,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11517,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8012,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1710,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9691,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9691,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12665,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 451,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 16420,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 9263,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 17015,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 17015,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 37557,
+		"country_id" : "CN"
+	},
+	{
+		"movie_id" : 37557,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9909,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 63,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 78802,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 78802,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9598,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 9598,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47018,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 47018,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 687,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 687,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 139405,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 33689,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9603,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 34615,
+		"country_id" : "ZA"
+	},
+	{
+		"movie_id" : 31174,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 31174,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11443,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 35196,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9312,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 577,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11861,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 807,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10530,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8391,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 629,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11448,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 49133,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 49133,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 49133,
+		"country_id" : "CH"
+	},
+	{
+		"movie_id" : 26441,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 97406,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 97406,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9089,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11010,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 11010,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 11010,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 99040,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 11359,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 17182,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2054,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10607,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19760,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9536,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11525,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 40628,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4482,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 10634,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 755,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11859,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 28387,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 48750,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 20927,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36929,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9102,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 9102,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 9102,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 124626,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 124626,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 27526,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9623,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 46785,
+		"country_id" : "IR"
+	},
+	{
+		"movie_id" : 400,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 880,
+		"country_id" : "NL"
+	},
+	{
+		"movie_id" : 880,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 880,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 146599,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8447,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 8447,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10534,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 17414,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13997,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2086,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 61548,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9095,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12158,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9283,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9208,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 40154,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 406,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 45549,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 63076,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 63076,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 63076,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 63076,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 11062,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13685,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47475,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2045,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9614,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 688,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11907,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 10874,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 197,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 103,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 33542,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 43566,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 71754,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 71754,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 43612,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 51352,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 51352,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 51352,
+		"country_id" : "NL"
+	},
+	{
+		"movie_id" : 16934,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 16934,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 16934,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 10324,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 78406,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 55731,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32119,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 11066,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11104,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 37975,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 2074,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 27793,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 27793,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 44284,
+		"country_id" : "TN"
+	},
+	{
+		"movie_id" : 44284,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 32622,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 73067,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 73067,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 73067,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 73067,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 11863,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 124636,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9101,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 123360,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5757,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 39428,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9302,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11000,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 249882,
+		"country_id" : "HR"
+	},
+	{
+		"movie_id" : 249882,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 249882,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 16388,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9737,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 30765,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10474,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22279,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 30157,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 30157,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 30157,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 568,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11780,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11780,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 34996,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 414,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 414,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 649,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 649,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 5894,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1775,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 1775,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8839,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20649,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10329,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8963,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26564,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8068,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8512,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1572,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13552,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 13552,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6520,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9073,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9073,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10428,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9886,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 9886,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9482,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19326,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9344,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9071,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8973,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15730,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 47608,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2293,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9070,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 9070,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 68274,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 68274,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 48787,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 48787,
+		"country_id" : "RU"
+	},
+	{
+		"movie_id" : 48787,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 48787,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 34574,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1642,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11472,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36196,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11980,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 58372,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32646,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 32646,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10533,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10802,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 10802,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10149,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 10149,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 10149,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18402,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9348,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 281,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5967,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 5967,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 79593,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47939,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36834,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 36834,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 36834,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9090,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3512,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 77350,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9560,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9804,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31611,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 31611,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 49805,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 26258,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 50797,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 50797,
+		"country_id" : "RU"
+	},
+	{
+		"movie_id" : 19155,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 19155,
+		"country_id" : "MK"
+	},
+	{
+		"movie_id" : 19155,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 76,
+		"country_id" : "AT"
+	},
+	{
+		"movie_id" : 76,
+		"country_id" : "CH"
+	},
+	{
+		"movie_id" : 76,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11017,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 37141,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9382,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9382,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6715,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18256,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22625,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 22625,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 2292,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1909,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8984,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 61813,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 61813,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 4954,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 62488,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11929,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8467,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10451,
+		"country_id" : "TW"
+	},
+	{
+		"movie_id" : 10451,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20156,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 18395,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 522,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 397,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 397,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10525,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 27985,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15789,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 27303,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 21183,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10954,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 10954,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 10954,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 47867,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 72031,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 72031,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 14275,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1024,
+		"country_id" : "NZ"
+	},
+	{
+		"movie_id" : 13701,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14819,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32631,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11777,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 628,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 87729,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18713,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6280,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9061,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6071,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9587,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19101,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 49980,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 17961,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 18183,
+		"country_id" : "MX"
+	},
+	{
+		"movie_id" : 4476,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11008,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47504,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32325,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 43742,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 28313,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11318,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 3036,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 3036,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 3036,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 24070,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8986,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10510,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 17402,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 38722,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8438,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 8438,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11593,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1945,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 39310,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 109560,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 109560,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 56428,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 63105,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 241,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9058,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 527,
+		"country_id" : "NZ"
+	},
+	{
+		"movie_id" : 18220,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6950,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 101,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 101,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 63020,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2307,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 680,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41478,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 41478,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25296,
+		"country_id" : "TW"
+	},
+	{
+		"movie_id" : 40156,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11450,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 30304,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 30304,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10452,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 10452,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 10452,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 12106,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 12106,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 161495,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3586,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 110,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 110,
+		"country_id" : "PL"
+	},
+	{
+		"movie_id" : 110,
+		"country_id" : "CH"
+	},
+	{
+		"movie_id" : 108,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 108,
+		"country_id" : "PL"
+	},
+	{
+		"movie_id" : 109,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 109,
+		"country_id" : "PL"
+	},
+	{
+		"movie_id" : 159185,
+		"country_id" : "CN"
+	},
+	{
+		"movie_id" : 159185,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 36357,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 92769,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 28033,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 28033,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22586,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14334,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 14334,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2636,
+		"country_id" : "PE"
+	},
+	{
+		"movie_id" : 2636,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2164,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 2164,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11395,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 278,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9905,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 87078,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12527,
+		"country_id" : "CU"
+	},
+	{
+		"movie_id" : 12527,
+		"country_id" : "ES"
+	},
+	{
+		"movie_id" : 20306,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36614,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 27993,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 27993,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31439,
+		"country_id" : "CN"
+	},
+	{
+		"movie_id" : 31439,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 9067,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9059,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 193,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25066,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 46797,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 46797,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12122,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11381,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32636,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36141,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 95963,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1587,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9271,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2064,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19855,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 60855,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 236,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 236,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 48287,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3049,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2759,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 12635,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 12635,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 10497,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 10497,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 10497,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11382,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9331,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10731,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10464,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 34152,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9495,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 29973,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 888,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 712,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 16295,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 48992,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10879,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10660,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10714,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41647,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 41647,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 41647,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 41647,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 8587,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1689,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 1689,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 1689,
+		"country_id" : "LI"
+	},
+	{
+		"movie_id" : 1689,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11596,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 854,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9359,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 23333,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36593,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12280,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2788,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10427,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11011,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 49803,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8987,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1637,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15128,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8831,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 8831,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36955,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10449,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10395,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12160,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 40480,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 52038,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 52038,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 29444,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26352,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 39953,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41580,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 315,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22067,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18242,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11667,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 11667,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32502,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 28732,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 75555,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 42981,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 278939,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 291731,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 203119,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8011,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 8011,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 8011,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 2654,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18069,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19092,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2758,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 38129,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10436,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13595,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 46094,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9409,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11853,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 16771,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 46924,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 46924,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11041,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 306,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14522,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 14522,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26203,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 178,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19819,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 57834,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4722,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18215,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1607,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26391,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 117553,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6075,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11310,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18658,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9350,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9350,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 9350,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9612,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2124,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26261,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19176,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 49299,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11566,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9571,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9739,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 24257,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 34444,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26141,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10997,
+		"country_id" : "CN"
+	},
+	{
+		"movie_id" : 10997,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 50463,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10443,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20239,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 20239,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 16297,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18551,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25440,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 25440,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9024,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 37233,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1634,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 1634,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13815,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 13815,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5503,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 35588,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2087,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 2087,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41579,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18620,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41006,
+		"country_id" : "ZA"
+	},
+	{
+		"movie_id" : 41006,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4916,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2019,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31642,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 31642,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9255,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26271,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10612,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 2259,
+		"country_id" : "DK"
+	},
+	{
+		"movie_id" : 2259,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 2259,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 2259,
+		"country_id" : "PT"
+	},
+	{
+		"movie_id" : 2259,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11934,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 11934,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11934,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 106143,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12475,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9386,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 59930,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15765,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31643,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 6,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 329,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10909,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 507,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 507,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 34024,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 29918,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9593,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 42580,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22317,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 22317,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1413,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12121,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 12121,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2246,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10502,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10440,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9516,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2320,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5879,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 83718,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11971,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11971,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2625,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31911,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 788,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 21450,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11231,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41588,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10447,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31586,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9300,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9300,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9300,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 9300,
+		"country_id" : "NL"
+	},
+	{
+		"movie_id" : 9300,
+		"country_id" : "RU"
+	},
+	{
+		"movie_id" : 9559,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9800,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 713,
+		"country_id" : "NZ"
+	},
+	{
+		"movie_id" : 713,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 713,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 8291,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18133,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25557,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22588,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10872,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1245,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 1245,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11858,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 11858,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 7007,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10467,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5550,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8005,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 8005,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2088,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 2088,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10412,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 47889,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14534,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 56583,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41878,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 41878,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 424,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 35233,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14291,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 103413,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 103413,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11236,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11592,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8850,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10445,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 695,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 43535,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12519,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 12519,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 23210,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 858,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 867,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 78,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 78,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 78,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 13203,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10442,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11074,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9607,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9607,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 17585,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9057,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20967,
+		"country_id" : "FI"
+	},
+	{
+		"movie_id" : 20967,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 20967,
+		"country_id" : "NL"
+	},
+	{
+		"movie_id" : 20967,
+		"country_id" : "PT"
+	},
+	{
+		"movie_id" : 10635,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9479,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10057,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10057,
+		"country_id" : "AT"
+	},
+	{
+		"movie_id" : 11969,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41590,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 319,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26408,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15139,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 161158,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 85247,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 85247,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 85247,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 11446,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 51980,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 51980,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 51980,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 24405,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11655,
+		"country_id" : "MX"
+	},
+	{
+		"movie_id" : 11800,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8223,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 8223,
+		"country_id" : "ES"
+	},
+	{
+		"movie_id" : 14587,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 31504,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41653,
+		"country_id" : "DK"
+	},
+	{
+		"movie_id" : 41653,
+		"country_id" : "SE"
+	},
+	{
+		"movie_id" : 23637,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 17600,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10897,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 21352,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 68806,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 32562,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47507,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 47507,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 25403,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 25403,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 124304,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 124304,
+		"country_id" : "AR"
+	},
+	{
+		"movie_id" : 9066,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 771,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 251,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 812,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 280,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 280,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 581,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 581,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 80350,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 268,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 268,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 274,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 408,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10020,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10895,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 114,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41043,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 41043,
+		"country_id" : "RU"
+	},
+	{
+		"movie_id" : 576,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15477,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 59146,
+		"country_id" : "CN"
+	},
+	{
+		"movie_id" : 30528,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 7300,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10824,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 261246,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 275,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25059,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 25059,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11827,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 8766,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 23570,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47333,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 51242,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 10112,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4307,
+		"country_id" : "ES"
+	},
+	{
+		"movie_id" : 46029,
+		"country_id" : "ES"
+	},
+	{
+		"movie_id" : 46029,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32308,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 52873,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 340210,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 44281,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 44281,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 44281,
+		"country_id" : "TN"
+	},
+	{
+		"movie_id" : 28121,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12520,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1592,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19042,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 38884,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 38884,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 38884,
+		"country_id" : "ES"
+	},
+	{
+		"movie_id" : 38884,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 38884,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 47449,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36259,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 41852,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 40926,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9099,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2021,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 2021,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 61752,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10988,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11479,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 398959,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 287305,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 339428,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 12652,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 12652,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 12652,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 10684,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 954,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 68445,
+		"country_id" : "IS"
+	},
+	{
+		"movie_id" : 68445,
+		"country_id" : "DK"
+	},
+	{
+		"movie_id" : 68445,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 68445,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 68445,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18989,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10801,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 54285,
+		"country_id" : "KR"
+	},
+	{
+		"movie_id" : 8840,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 278978,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 124625,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 124625,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 124625,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 124625,
+		"country_id" : "AT"
+	},
+	{
+		"movie_id" : 11107,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 16417,
+		"country_id" : "ZA"
+	},
+	{
+		"movie_id" : 10363,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 10363,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 161070,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 161070,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10539,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10543,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18414,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18414,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 47502,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11902,
+		"country_id" : "RS"
+	},
+	{
+		"movie_id" : 11902,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 11902,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 11902,
+		"country_id" : "HU"
+	},
+	{
+		"movie_id" : 11902,
+		"country_id" : "CZ"
+	},
+	{
+		"movie_id" : 27098,
+		"country_id" : "SE"
+	},
+	{
+		"movie_id" : 27098,
+		"country_id" : "DK"
+	},
+	{
+		"movie_id" : 25087,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 5801,
+		"country_id" : "IN"
+	},
+	{
+		"movie_id" : 896,
+		"country_id" : "IN"
+	},
+	{
+		"movie_id" : 3065,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2300,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8069,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 288173,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 221917,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 221917,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8072,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 8072,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 35797,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 83857,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 33245,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 27281,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 105045,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 40001,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 29621,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 29621,
+		"country_id" : "MX"
+	},
+	{
+		"movie_id" : 20762,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 48260,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 12656,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 38867,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25969,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 44103,
+		"country_id" : "BE"
+	},
+	{
+		"movie_id" : 753,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 43634,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9103,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 9103,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 90214,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 10990,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8866,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12233,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 23449,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36355,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 37667,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 37667,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 90148,
+		"country_id" : "AR"
+	},
+	{
+		"movie_id" : 90148,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 922,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 922,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 922,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11876,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 52633,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 62364,
+		"country_id" : "ES"
+	},
+	{
+		"movie_id" : 11687,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 9304,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 73183,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 131232,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 9100,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20759,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 46063,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32513,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 40651,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 40651,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 40651,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 36915,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 36915,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9802,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25697,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 25697,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 664,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11867,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47119,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 314352,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 9323,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 10280,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10535,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 124613,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 532,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 26744,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 16299,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 16299,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10547,
+		"country_id" : "MX"
+	},
+	{
+		"movie_id" : 10547,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 245268,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 935,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 935,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 55613,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 41007,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 41007,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 35645,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 35645,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 110465,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 255546,
+		"country_id" : "BR"
+	},
+	{
+		"movie_id" : 255546,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 40751,
+		"country_id" : "TW"
+	},
+	{
+		"movie_id" : 40751,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 85778,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11101,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 9826,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 9826,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9879,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22621,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 7095,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26890,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 26890,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 46732,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 124633,
+		"country_id" : "RS"
+	},
+	{
+		"movie_id" : 124633,
+		"country_id" : "GR"
+	},
+	{
+		"movie_id" : 124633,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 124633,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 124633,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 77771,
+		"country_id" : "SN"
+	},
+	{
+		"movie_id" : 181083,
+		"country_id" : "BF"
+	},
+	{
+		"movie_id" : 41225,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 41225,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 87190,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 627,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 32872,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 602,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14553,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 14553,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 14553,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9566,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10545,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9894,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11543,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9268,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 9268,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9327,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 123763,
+		"country_id" : "AR"
+	},
+	{
+		"movie_id" : 81949,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 81949,
+		"country_id" : "RO"
+	},
+	{
+		"movie_id" : 42005,
+		"country_id" : "HU"
+	},
+	{
+		"movie_id" : 183955,
+		"country_id" : "PH"
+	},
+	{
+		"movie_id" : 44535,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 44495,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 78285,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 11228,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10779,
+		"country_id" : "NZ"
+	},
+	{
+		"movie_id" : 10779,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26748,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 38223,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9294,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 49963,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 49963,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 49963,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11363,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1645,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31546,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 31546,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 77056,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 36344,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 18550,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11511,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 172198,
+		"country_id" : "HU"
+	},
+	{
+		"movie_id" : 172198,
+		"country_id" : "CH"
+	},
+	{
+		"movie_id" : 172198,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 34170,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 281085,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 281085,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 124645,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 12606,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 35206,
+		"country_id" : "MX"
+	},
+	{
+		"movie_id" : 35206,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 4837,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 12632,
+		"country_id" : "AT"
+	},
+	{
+		"movie_id" : 12632,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 12632,
+		"country_id" : "SE"
+	},
+	{
+		"movie_id" : 9098,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 282919,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 18975,
+		"country_id" : "CZ"
+	},
+	{
+		"movie_id" : 18975,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 18975,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 18975,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 18975,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11962,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2925,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 28628,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 28628,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3595,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9308,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 92381,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18555,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12123,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10830,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3573,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10546,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18862,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31417,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 31417,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 9431,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 48144,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 46986,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 46986,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 46986,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 144982,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47907,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10061,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 36266,
+		"country_id" : "VN"
+	},
+	{
+		"movie_id" : 36266,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 36266,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 549,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10478,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 66634,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 66634,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 116690,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 213917,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 238,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 159,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 11134,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 88224,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 132641,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 42758,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 9303,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 23945,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 37820,
+		"country_id" : "AU"
+	},
+	{
+		"movie_id" : 22479,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9054,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11985,
+		"country_id" : "TW"
+	},
+	{
+		"movie_id" : 10232,
+		"country_id" : "CH"
+	},
+	{
+		"movie_id" : 10232,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 59569,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 38955,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 110513,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11015,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 11015,
+		"country_id" : "JP"
+	},
+	{
+		"movie_id" : 11015,
+		"country_id" : "NZ"
+	},
+	{
+		"movie_id" : 11015,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 11015,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9306,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12559,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 58770,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3587,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10723,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 56077,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19004,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10987,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 44705,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 44705,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 44705,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20318,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 43596,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 26933,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 27854,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 981,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 872,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13320,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 164,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 426,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 567,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3078,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13528,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 28288,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 213,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 284,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 239,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4808,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 289,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 963,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11113,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6620,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 804,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26531,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 770,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31044,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 599,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 62,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 62,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 121357,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 705,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22490,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 223,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 25670,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 303,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 4174,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8356,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 381,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 20758,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 29376,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1859,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18299,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 17281,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 64382,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10907,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 32093,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1939,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22292,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3598,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3080,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 198,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 13562,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1712,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 220,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3529,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3085,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2897,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1585,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 3083,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 900,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 43795,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 85638,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 50001,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 43905,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22688,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 23114,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 26378,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 40206,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22356,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 260,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 43488,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22613,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10331,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 488,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 488,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22733,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22733,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 22733,
+		"country_id" : "IT"
+	},
+	{
+		"movie_id" : 261,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 57575,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 57575,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 32574,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22657,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 76464,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22649,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 176841,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 125587,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 125587,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 39448,
+		"country_id" : "HK"
+	},
+	{
+		"movie_id" : 52855,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 52855,
+		"country_id" : "ZA"
+	},
+	{
+		"movie_id" : 39940,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 85328,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 85328,
+		"country_id" : "FR"
+	},
+	{
+		"movie_id" : 11076,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 63945,
+		"country_id" : "CA"
+	},
+	{
+		"movie_id" : 63945,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 58985,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 890,
+		"country_id" : "AT"
+	},
+	{
+		"movie_id" : 890,
+		"country_id" : "DE"
+	},
+	{
+		"movie_id" : 10861,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 1770,
+		"country_id" : "IE"
+	},
+	{
+		"movie_id" : 1770,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 44465,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 2033,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18203,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9333,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 47260,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9400,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9401,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 12241,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11306,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9625,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10680,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6346,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18660,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 35115,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14821,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 14136,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 10869,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 22660,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 19186,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 31102,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 6878,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15944,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 18444,
+		"country_id" : "TT"
+	},
+	{
+		"movie_id" : 18444,
+		"country_id" : "GB"
+	},
+	{
+		"movie_id" : 20723,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 173,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 864,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 24795,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 11224,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 81310,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 15947,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 9078,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 29682,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 8367,
+		"country_id" : "US"
+	},
+	{
+		"movie_id" : 433,
+		"country_id" : "US"
+	}
+]}

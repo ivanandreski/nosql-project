@@ -1,0 +1,7631 @@
+{
+"movie_production_companies": [
+	{
+		"movie_id" : 862,
+		"production_company_id" : 3
+	},
+	{
+		"movie_id" : 8844,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 8844,
+		"production_company_id" : 2550
+	},
+	{
+		"movie_id" : 8844,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 15602,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 15602,
+		"production_company_id" : 19464
+	},
+	{
+		"movie_id" : 31357,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 11862,
+		"production_company_id" : 5842
+	},
+	{
+		"movie_id" : 11862,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 949,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 949,
+		"production_company_id" : 675
+	},
+	{
+		"movie_id" : 949,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 258
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 932
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 5842
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 14941
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 55873
+	},
+	{
+		"movie_id" : 11860,
+		"production_company_id" : 58079
+	},
+	{
+		"movie_id" : 45325,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 9091,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9091,
+		"production_company_id" : 21437
+	},
+	{
+		"movie_id" : 9091,
+		"production_company_id" : 23770
+	},
+	{
+		"movie_id" : 710,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 710,
+		"production_company_id" : 7576
+	},
+	{
+		"movie_id" : 9087,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 9087,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 12110,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 12110,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 12110,
+		"production_company_id" : 6368
+	},
+	{
+		"movie_id" : 21032,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 21032,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 21032,
+		"production_company_id" : 4105
+	},
+	{
+		"movie_id" : 10858,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 10858,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 1408,
+		"production_company_id" : 183
+	},
+	{
+		"movie_id" : 1408,
+		"production_company_id" : 415
+	},
+	{
+		"movie_id" : 1408,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 1408,
+		"production_company_id" : 14723
+	},
+	{
+		"movie_id" : 524,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 524,
+		"production_company_id" : 10898
+	},
+	{
+		"movie_id" : 524,
+		"production_company_id" : 11583
+	},
+	{
+		"movie_id" : 524,
+		"production_company_id" : 11584
+	},
+	{
+		"movie_id" : 4584,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 4584,
+		"production_company_id" : 932
+	},
+	{
+		"movie_id" : 5,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 5,
+		"production_company_id" : 59
+	},
+	{
+		"movie_id" : 9273,
+		"production_company_id" : 5682
+	},
+	{
+		"movie_id" : 9273,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9273,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 11517,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 8012,
+		"production_company_id" : 216
+	},
+	{
+		"movie_id" : 8012,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 1710,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 1710,
+		"production_company_id" : 10104
+	},
+	{
+		"movie_id" : 9691,
+		"production_company_id" : 1885
+	},
+	{
+		"movie_id" : 9691,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 9691,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9691,
+		"production_company_id" : 10308
+	},
+	{
+		"movie_id" : 9691,
+		"production_company_id" : 23397
+	},
+	{
+		"movie_id" : 9691,
+		"production_company_id" : 25061
+	},
+	{
+		"movie_id" : 12665,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 12665,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 451,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 451,
+		"production_company_id" : 15547
+	},
+	{
+		"movie_id" : 16420,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 16420,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 9263,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 17015,
+		"production_company_id" : 288
+	},
+	{
+		"movie_id" : 37557,
+		"production_company_id" : 2588
+	},
+	{
+		"movie_id" : 37557,
+		"production_company_id" : 4507
+	},
+	{
+		"movie_id" : 37557,
+		"production_company_id" : 23647
+	},
+	{
+		"movie_id" : 9909,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9909,
+		"production_company_id" : 10103
+	},
+	{
+		"movie_id" : 9909,
+		"production_company_id" : 10288
+	},
+	{
+		"movie_id" : 63,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 63,
+		"production_company_id" : 507
+	},
+	{
+		"movie_id" : 63,
+		"production_company_id" : 17031
+	},
+	{
+		"movie_id" : 78802,
+		"production_company_id" : 70801
+	},
+	{
+		"movie_id" : 9598,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9598,
+		"production_company_id" : 2537
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 694
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 874
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 8363
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 19316
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 30226
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 31080
+	},
+	{
+		"movie_id" : 47018,
+		"production_company_id" : 44821
+	},
+	{
+		"movie_id" : 687,
+		"production_company_id" : 406
+	},
+	{
+		"movie_id" : 687,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 687,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 139405,
+		"production_company_id" : 53390
+	},
+	{
+		"movie_id" : 33689,
+		"production_company_id" : 6130
+	},
+	{
+		"movie_id" : 33689,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 33689,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 33689,
+		"production_company_id" : 89131
+	},
+	{
+		"movie_id" : 9603,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 34615,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 34615,
+		"production_company_id" : 85681
+	},
+	{
+		"movie_id" : 34615,
+		"production_company_id" : 89840
+	},
+	{
+		"movie_id" : 31174,
+		"production_company_id" : 871
+	},
+	{
+		"movie_id" : 31174,
+		"production_company_id" : 34237
+	},
+	{
+		"movie_id" : 11443,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 11443,
+		"production_company_id" : 476
+	},
+	{
+		"movie_id" : 11443,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 35196,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 9312,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 9312,
+		"production_company_id" : 4174
+	},
+	{
+		"movie_id" : 577,
+		"production_company_id" : 364
+	},
+	{
+		"movie_id" : 577,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 11861,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11861,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 807,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 807,
+		"production_company_id" : 4286
+	},
+	{
+		"movie_id" : 807,
+		"production_company_id" : 65394
+	},
+	{
+		"movie_id" : 10530,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 10530,
+		"production_company_id" : 10217
+	},
+	{
+		"movie_id" : 8391,
+		"production_company_id" : 2480
+	},
+	{
+		"movie_id" : 629,
+		"production_company_id" : 361
+	},
+	{
+		"movie_id" : 629,
+		"production_company_id" : 9168
+	},
+	{
+		"movie_id" : 11448,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 11448,
+		"production_company_id" : 1030
+	},
+	{
+		"movie_id" : 26441,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 26441,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 97406,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 97406,
+		"production_company_id" : 7832
+	},
+	{
+		"movie_id" : 124057,
+		"production_company_id" : 7320
+	},
+	{
+		"movie_id" : 124057,
+		"production_company_id" : 10260
+	},
+	{
+		"movie_id" : 9089,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9089,
+		"production_company_id" : 802
+	},
+	{
+		"movie_id" : 9089,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 11359,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 11359,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 11359,
+		"production_company_id" : 862
+	},
+	{
+		"movie_id" : 17182,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 2054,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 2054,
+		"production_company_id" : 916
+	},
+	{
+		"movie_id" : 2054,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 2054,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 10607,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 10607,
+		"production_company_id" : 3492
+	},
+	{
+		"movie_id" : 10607,
+		"production_company_id" : 5441
+	},
+	{
+		"movie_id" : 19760,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 19760,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 9536,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 9536,
+		"production_company_id" : 11061
+	},
+	{
+		"movie_id" : 9536,
+		"production_company_id" : 36390
+	},
+	{
+		"movie_id" : 9536,
+		"production_company_id" : 38003
+	},
+	{
+		"movie_id" : 11525,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 40628,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 4482,
+		"production_company_id" : 82
+	},
+	{
+		"movie_id" : 4482,
+		"production_company_id" : 1614
+	},
+	{
+		"movie_id" : 4482,
+		"production_company_id" : 3823
+	},
+	{
+		"movie_id" : 4482,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 10634,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 755,
+		"production_company_id" : 59
+	},
+	{
+		"movie_id" : 755,
+		"production_company_id" : 7405
+	},
+	{
+		"movie_id" : 755,
+		"production_company_id" : 11705
+	},
+	{
+		"movie_id" : 755,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 11859,
+		"production_company_id" : 1885
+	},
+	{
+		"movie_id" : 11859,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 28387,
+		"production_company_id" : 5841
+	},
+	{
+		"movie_id" : 28387,
+		"production_company_id" : 5842
+	},
+	{
+		"movie_id" : 48750,
+		"production_company_id" : 1742
+	},
+	{
+		"movie_id" : 48750,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 48750,
+		"production_company_id" : 22123
+	},
+	{
+		"movie_id" : 20927,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 20927,
+		"production_company_id" : 4286
+	},
+	{
+		"movie_id" : 36929,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 36929,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 9102,
+		"production_company_id" : 3388
+	},
+	{
+		"movie_id" : 9102,
+		"production_company_id" : 4899
+	},
+	{
+		"movie_id" : 9102,
+		"production_company_id" : 7958
+	},
+	{
+		"movie_id" : 9102,
+		"production_company_id" : 23096
+	},
+	{
+		"movie_id" : 9102,
+		"production_company_id" : 23097
+	},
+	{
+		"movie_id" : 9102,
+		"production_company_id" : 23098
+	},
+	{
+		"movie_id" : 124626,
+		"production_company_id" : 4606
+	},
+	{
+		"movie_id" : 124626,
+		"production_company_id" : 83201
+	},
+	{
+		"movie_id" : 124626,
+		"production_company_id" : 93174
+	},
+	{
+		"movie_id" : 27526,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 9623,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 46785,
+		"production_company_id" : 38953
+	},
+	{
+		"movie_id" : 46785,
+		"production_company_id" : 38954
+	},
+	{
+		"movie_id" : 400,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 880,
+		"production_company_id" : 575
+	},
+	{
+		"movie_id" : 880,
+		"production_company_id" : 576
+	},
+	{
+		"movie_id" : 880,
+		"production_company_id" : 577
+	},
+	{
+		"movie_id" : 146599,
+		"production_company_id" : 38196
+	},
+	{
+		"movie_id" : 146599,
+		"production_company_id" : 38197
+	},
+	{
+		"movie_id" : 8447,
+		"production_company_id" : 2492
+	},
+	{
+		"movie_id" : 8447,
+		"production_company_id" : 8888
+	},
+	{
+		"movie_id" : 10534,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 10534,
+		"production_company_id" : 1644
+	},
+	{
+		"movie_id" : 10534,
+		"production_company_id" : 1645
+	},
+	{
+		"movie_id" : 17414,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 17414,
+		"production_company_id" : 3311
+	},
+	{
+		"movie_id" : 13997,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 2086,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 61548,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 61548,
+		"production_company_id" : 4665
+	},
+	{
+		"movie_id" : 9095,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9095,
+		"production_company_id" : 18737
+	},
+	{
+		"movie_id" : 12158,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9283,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 9283,
+		"production_company_id" : 979
+	},
+	{
+		"movie_id" : 9208,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 9208,
+		"production_company_id" : 456
+	},
+	{
+		"movie_id" : 9208,
+		"production_company_id" : 11362
+	},
+	{
+		"movie_id" : 40154,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 40154,
+		"production_company_id" : 75942
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 802
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 5869
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 16366
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 22684
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 68517
+	},
+	{
+		"movie_id" : 406,
+		"production_company_id" : 68518
+	},
+	{
+		"movie_id" : 45549,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 63076,
+		"production_company_id" : 3324
+	},
+	{
+		"movie_id" : 63076,
+		"production_company_id" : 7025
+	},
+	{
+		"movie_id" : 63076,
+		"production_company_id" : 12113
+	},
+	{
+		"movie_id" : 63076,
+		"production_company_id" : 12911
+	},
+	{
+		"movie_id" : 63076,
+		"production_company_id" : 12912
+	},
+	{
+		"movie_id" : 63076,
+		"production_company_id" : 12913
+	},
+	{
+		"movie_id" : 11062,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 11062,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 13685,
+		"production_company_id" : 18
+	},
+	{
+		"movie_id" : 13685,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 47475,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 2045,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 2045,
+		"production_company_id" : 10308
+	},
+	{
+		"movie_id" : 2045,
+		"production_company_id" : 10355
+	},
+	{
+		"movie_id" : 9614,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9614,
+		"production_company_id" : 1606
+	},
+	{
+		"movie_id" : 9614,
+		"production_company_id" : 3929
+	},
+	{
+		"movie_id" : 688,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 688,
+		"production_company_id" : 171
+	},
+	{
+		"movie_id" : 688,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10874,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 10874,
+		"production_company_id" : 2504
+	},
+	{
+		"movie_id" : 10874,
+		"production_company_id" : 6254
+	},
+	{
+		"movie_id" : 197,
+		"production_company_id" : 4564
+	},
+	{
+		"movie_id" : 197,
+		"production_company_id" : 7965
+	},
+	{
+		"movie_id" : 197,
+		"production_company_id" : 11353
+	},
+	{
+		"movie_id" : 103,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 103,
+		"production_company_id" : 46059
+	},
+	{
+		"movie_id" : 103,
+		"production_company_id" : 46060
+	},
+	{
+		"movie_id" : 33542,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 33542,
+		"production_company_id" : 2521
+	},
+	{
+		"movie_id" : 43566,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 43566,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 806
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 2055
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 3498
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 9116
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 12745
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 17027
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 22150
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 38673
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 38674
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 40534
+	},
+	{
+		"movie_id" : 71754,
+		"production_company_id" : 85045
+	},
+	{
+		"movie_id" : 43612,
+		"production_company_id" : 83
+	},
+	{
+		"movie_id" : 43612,
+		"production_company_id" : 591
+	},
+	{
+		"movie_id" : 43612,
+		"production_company_id" : 694
+	},
+	{
+		"movie_id" : 43612,
+		"production_company_id" : 883
+	},
+	{
+		"movie_id" : 43612,
+		"production_company_id" : 885
+	},
+	{
+		"movie_id" : 16934,
+		"production_company_id" : 3236
+	},
+	{
+		"movie_id" : 10324,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 10324,
+		"production_company_id" : 11061
+	},
+	{
+		"movie_id" : 78406,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 55731,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 11066,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 11104,
+		"production_company_id" : 540
+	},
+	{
+		"movie_id" : 11104,
+		"production_company_id" : 10932
+	},
+	{
+		"movie_id" : 37975,
+		"production_company_id" : 371
+	},
+	{
+		"movie_id" : 2074,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 27793,
+		"production_company_id" : 264
+	},
+	{
+		"movie_id" : 27793,
+		"production_company_id" : 1766
+	},
+	{
+		"movie_id" : 27793,
+		"production_company_id" : 1979
+	},
+	{
+		"movie_id" : 27793,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 27793,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 44284,
+		"production_company_id" : 22029
+	},
+	{
+		"movie_id" : 44284,
+		"production_company_id" : 22618
+	},
+	{
+		"movie_id" : 44284,
+		"production_company_id" : 71842
+	},
+	{
+		"movie_id" : 73067,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 73067,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 73067,
+		"production_company_id" : 1898
+	},
+	{
+		"movie_id" : 73067,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 11863,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9101,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 123360,
+		"production_company_id" : 68229
+	},
+	{
+		"movie_id" : 39428,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 39428,
+		"production_company_id" : 38778
+	},
+	{
+		"movie_id" : 39428,
+		"production_company_id" : 94477
+	},
+	{
+		"movie_id" : 39428,
+		"production_company_id" : 94478
+	},
+	{
+		"movie_id" : 9302,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 9302,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 11000,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 16388,
+		"production_company_id" : 43
+	},
+	{
+		"movie_id" : 9737,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 9737,
+		"production_company_id" : 10288
+	},
+	{
+		"movie_id" : 30765,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10474,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 10474,
+		"production_company_id" : 3492
+	},
+	{
+		"movie_id" : 22279,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 22279,
+		"production_company_id" : 5996
+	},
+	{
+		"movie_id" : 22279,
+		"production_company_id" : 12745
+	},
+	{
+		"movie_id" : 22279,
+		"production_company_id" : 16027
+	},
+	{
+		"movie_id" : 30157,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 30157,
+		"production_company_id" : 3644
+	},
+	{
+		"movie_id" : 30157,
+		"production_company_id" : 3906
+	},
+	{
+		"movie_id" : 30157,
+		"production_company_id" : 7248
+	},
+	{
+		"movie_id" : 30157,
+		"production_company_id" : 16366
+	},
+	{
+		"movie_id" : 30157,
+		"production_company_id" : 37909
+	},
+	{
+		"movie_id" : 568,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 568,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11780,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 11780,
+		"production_company_id" : 8989
+	},
+	{
+		"movie_id" : 34996,
+		"production_company_id" : 236
+	},
+	{
+		"movie_id" : 34996,
+		"production_company_id" : 1214
+	},
+	{
+		"movie_id" : 34996,
+		"production_company_id" : 5353
+	},
+	{
+		"movie_id" : 414,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 414,
+		"production_company_id" : 31080
+	},
+	{
+		"movie_id" : 649,
+		"production_company_id" : 386
+	},
+	{
+		"movie_id" : 649,
+		"production_company_id" : 387
+	},
+	{
+		"movie_id" : 649,
+		"production_company_id" : 11290
+	},
+	{
+		"movie_id" : 1873,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 1873,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 5894,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 5894,
+		"production_company_id" : 30334
+	},
+	{
+		"movie_id" : 1775,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 8839,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 8839,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 8839,
+		"production_company_id" : 11098
+	},
+	{
+		"movie_id" : 20649,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 20649,
+		"production_company_id" : 4319
+	},
+	{
+		"movie_id" : 10329,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 10329,
+		"production_company_id" : 7383
+	},
+	{
+		"movie_id" : 8963,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 8963,
+		"production_company_id" : 10288
+	},
+	{
+		"movie_id" : 26564,
+		"production_company_id" : 4532
+	},
+	{
+		"movie_id" : 8068,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 8068,
+		"production_company_id" : 11705
+	},
+	{
+		"movie_id" : 8512,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 8512,
+		"production_company_id" : 2510
+	},
+	{
+		"movie_id" : 1572,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 1572,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 13552,
+		"production_company_id" : 729
+	},
+	{
+		"movie_id" : 13552,
+		"production_company_id" : 1474
+	},
+	{
+		"movie_id" : 13552,
+		"production_company_id" : 2765
+	},
+	{
+		"movie_id" : 13552,
+		"production_company_id" : 18902
+	},
+	{
+		"movie_id" : 259209,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 259209,
+		"production_company_id" : 20740
+	},
+	{
+		"movie_id" : 6520,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 6520,
+		"production_company_id" : 10158
+	},
+	{
+		"movie_id" : 9073,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 9073,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 9073,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 9073,
+		"production_company_id" : 5739
+	},
+	{
+		"movie_id" : 9073,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10428,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 10428,
+		"production_company_id" : 87394
+	},
+	{
+		"movie_id" : 9886,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9886,
+		"production_company_id" : 2480
+	},
+	{
+		"movie_id" : 9482,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9482,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 19326,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9344,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 9071,
+		"production_company_id" : 13187
+	},
+	{
+		"movie_id" : 9071,
+		"production_company_id" : 13190
+	},
+	{
+		"movie_id" : 8973,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 8973,
+		"production_company_id" : 3557
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 1203
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 2267
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 4350
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 7320
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 7828
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 11578
+	},
+	{
+		"movie_id" : 15730,
+		"production_company_id" : 35859
+	},
+	{
+		"movie_id" : 47608,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 2293,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 2293,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 2293,
+		"production_company_id" : 11462
+	},
+	{
+		"movie_id" : 2293,
+		"production_company_id" : 16934
+	},
+	{
+		"movie_id" : 9070,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 9070,
+		"production_company_id" : 2106
+	},
+	{
+		"movie_id" : 9070,
+		"production_company_id" : 9255
+	},
+	{
+		"movie_id" : 68274,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 68274,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 48787,
+		"production_company_id" : 16561
+	},
+	{
+		"movie_id" : 48787,
+		"production_company_id" : 38959
+	},
+	{
+		"movie_id" : 48787,
+		"production_company_id" : 38960
+	},
+	{
+		"movie_id" : 34574,
+		"production_company_id" : 37897
+	},
+	{
+		"movie_id" : 1642,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 11472,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 11472,
+		"production_company_id" : 436
+	},
+	{
+		"movie_id" : 36196,
+		"production_company_id" : 37890
+	},
+	{
+		"movie_id" : 11980,
+		"production_company_id" : 7405
+	},
+	{
+		"movie_id" : 58372,
+		"production_company_id" : 2492
+	},
+	{
+		"movie_id" : 58372,
+		"production_company_id" : 3906
+	},
+	{
+		"movie_id" : 58372,
+		"production_company_id" : 28205
+	},
+	{
+		"movie_id" : 32646,
+		"production_company_id" : 1422
+	},
+	{
+		"movie_id" : 32646,
+		"production_company_id" : 3906
+	},
+	{
+		"movie_id" : 32646,
+		"production_company_id" : 38692
+	},
+	{
+		"movie_id" : 32646,
+		"production_company_id" : 39861
+	},
+	{
+		"movie_id" : 10533,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 10533,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 10802,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 10802,
+		"production_company_id" : 183
+	},
+	{
+		"movie_id" : 10802,
+		"production_company_id" : 14723
+	},
+	{
+		"movie_id" : 10149,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 18402,
+		"production_company_id" : 705
+	},
+	{
+		"movie_id" : 18402,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 18402,
+		"production_company_id" : 16368
+	},
+	{
+		"movie_id" : 9348,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 281,
+		"production_company_id" : 574
+	},
+	{
+		"movie_id" : 5967,
+		"production_company_id" : 1080
+	},
+	{
+		"movie_id" : 5967,
+		"production_company_id" : 1147
+	},
+	{
+		"movie_id" : 5967,
+		"production_company_id" : 14680
+	},
+	{
+		"movie_id" : 79593,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 79593,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 79593,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 47939,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 36834,
+		"production_company_id" : 6849
+	},
+	{
+		"movie_id" : 36834,
+		"production_company_id" : 16026
+	},
+	{
+		"movie_id" : 36834,
+		"production_company_id" : 16027
+	},
+	{
+		"movie_id" : 9090,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9090,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 3512,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 3512,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 3512,
+		"production_company_id" : 17825
+	},
+	{
+		"movie_id" : 3512,
+		"production_company_id" : 21480
+	},
+	{
+		"movie_id" : 3512,
+		"production_company_id" : 63906
+	},
+	{
+		"movie_id" : 52856,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9560,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 9560,
+		"production_company_id" : 2851
+	},
+	{
+		"movie_id" : 9804,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9804,
+		"production_company_id" : 1073
+	},
+	{
+		"movie_id" : 9804,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 9804,
+		"production_company_id" : 6092
+	},
+	{
+		"movie_id" : 31611,
+		"production_company_id" : 6068
+	},
+	{
+		"movie_id" : 31611,
+		"production_company_id" : 6911
+	},
+	{
+		"movie_id" : 31611,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 65796,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 49805,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 26258,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 50797,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 50797,
+		"production_company_id" : 6453
+	},
+	{
+		"movie_id" : 50797,
+		"production_company_id" : 6454
+	},
+	{
+		"movie_id" : 19155,
+		"production_company_id" : 6367
+	},
+	{
+		"movie_id" : 19155,
+		"production_company_id" : 12745
+	},
+	{
+		"movie_id" : 76,
+		"production_company_id" : 98
+	},
+	{
+		"movie_id" : 76,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11017,
+		"production_company_id" : 6365
+	},
+	{
+		"movie_id" : 37141,
+		"production_company_id" : 18189
+	},
+	{
+		"movie_id" : 9382,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 9382,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 9382,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 9382,
+		"production_company_id" : 10104
+	},
+	{
+		"movie_id" : 9382,
+		"production_company_id" : 16192
+	},
+	{
+		"movie_id" : 6715,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 6715,
+		"production_company_id" : 1595
+	},
+	{
+		"movie_id" : 18256,
+		"production_company_id" : 4867
+	},
+	{
+		"movie_id" : 22625,
+		"production_company_id" : 364
+	},
+	{
+		"movie_id" : 22625,
+		"production_company_id" : 1898
+	},
+	{
+		"movie_id" : 22625,
+		"production_company_id" : 4127
+	},
+	{
+		"movie_id" : 22625,
+		"production_company_id" : 23808
+	},
+	{
+		"movie_id" : 2292,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 2292,
+		"production_company_id" : 16934
+	},
+	{
+		"movie_id" : 1909,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 1909,
+		"production_company_id" : 70
+	},
+	{
+		"movie_id" : 8984,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 8984,
+		"production_company_id" : 11407
+	},
+	{
+		"movie_id" : 61813,
+		"production_company_id" : 15709
+	},
+	{
+		"movie_id" : 61813,
+		"production_company_id" : 52095
+	},
+	{
+		"movie_id" : 4954,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 62488,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 62488,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 11929,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 11929,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 8467,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 8467,
+		"production_company_id" : 11061
+	},
+	{
+		"movie_id" : 10451,
+		"production_company_id" : 5528
+	},
+	{
+		"movie_id" : 10451,
+		"production_company_id" : 10565
+	},
+	{
+		"movie_id" : 10451,
+		"production_company_id" : 25345
+	},
+	{
+		"movie_id" : 20156,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 20156,
+		"production_company_id" : 10166
+	},
+	{
+		"movie_id" : 20156,
+		"production_company_id" : 12800
+	},
+	{
+		"movie_id" : 18395,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 522,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 397,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 397,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 397,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 397,
+		"production_company_id" : 34207
+	},
+	{
+		"movie_id" : 10525,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 10525,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 27985,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 15789,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 27303,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 21183,
+		"production_company_id" : 21
+	},
+	{
+		"movie_id" : 10954,
+		"production_company_id" : 1429
+	},
+	{
+		"movie_id" : 10954,
+		"production_company_id" : 2359
+	},
+	{
+		"movie_id" : 10954,
+		"production_company_id" : 37581
+	},
+	{
+		"movie_id" : 72031,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 14275,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 14275,
+		"production_company_id" : 13042
+	},
+	{
+		"movie_id" : 1024,
+		"production_company_id" : 11
+	},
+	{
+		"movie_id" : 1024,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 1024,
+		"production_company_id" : 294
+	},
+	{
+		"movie_id" : 1024,
+		"production_company_id" : 2306
+	},
+	{
+		"movie_id" : 17207,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 17207,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 13701,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 13701,
+		"production_company_id" : 2630
+	},
+	{
+		"movie_id" : 13701,
+		"production_company_id" : 4564
+	},
+	{
+		"movie_id" : 14819,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 14819,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 32631,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 32631,
+		"production_company_id" : 11393
+	},
+	{
+		"movie_id" : 11777,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 628,
+		"production_company_id" : 360
+	},
+	{
+		"movie_id" : 87729,
+		"production_company_id" : 2370
+	},
+	{
+		"movie_id" : 87729,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 18713,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 18713,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 6280,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 6280,
+		"production_company_id" : 8816
+	},
+	{
+		"movie_id" : 9061,
+		"production_company_id" : 414
+	},
+	{
+		"movie_id" : 9061,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9061,
+		"production_company_id" : 36854
+	},
+	{
+		"movie_id" : 37108,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 37108,
+		"production_company_id" : 4063
+	},
+	{
+		"movie_id" : 6071,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 11,
+		"production_company_id" : 1
+	},
+	{
+		"movie_id" : 11,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 9587,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 19101,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 49980,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 49980,
+		"production_company_id" : 983
+	},
+	{
+		"movie_id" : 17961,
+		"production_company_id" : 9209
+	},
+	{
+		"movie_id" : 18183,
+		"production_company_id" : 84803
+	},
+	{
+		"movie_id" : 18183,
+		"production_company_id" : 84804
+	},
+	{
+		"movie_id" : 4476,
+		"production_company_id" : 348
+	},
+	{
+		"movie_id" : 4476,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 4476,
+		"production_company_id" : 1656
+	},
+	{
+		"movie_id" : 11008,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 47504,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 47504,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 47504,
+		"production_company_id" : 285
+	},
+	{
+		"movie_id" : 32325,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 32325,
+		"production_company_id" : 2832
+	},
+	{
+		"movie_id" : 32325,
+		"production_company_id" : 3268
+	},
+	{
+		"movie_id" : 32325,
+		"production_company_id" : 36836
+	},
+	{
+		"movie_id" : 43742,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 28313,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 11318,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 11318,
+		"production_company_id" : 798
+	},
+	{
+		"movie_id" : 11318,
+		"production_company_id" : 23022
+	},
+	{
+		"movie_id" : 3036,
+		"production_company_id" : 70
+	},
+	{
+		"movie_id" : 3036,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 40490,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 24070,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 8986,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 8986,
+		"production_company_id" : 862
+	},
+	{
+		"movie_id" : 10510,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 17402,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 38722,
+		"production_company_id" : 70
+	},
+	{
+		"movie_id" : 38722,
+		"production_company_id" : 3906
+	},
+	{
+		"movie_id" : 38722,
+		"production_company_id" : 20928
+	},
+	{
+		"movie_id" : 38722,
+		"production_company_id" : 89873
+	},
+	{
+		"movie_id" : 8438,
+		"production_company_id" : 2428
+	},
+	{
+		"movie_id" : 8438,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11593,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 11593,
+		"production_company_id" : 594
+	},
+	{
+		"movie_id" : 11593,
+		"production_company_id" : 761
+	},
+	{
+		"movie_id" : 1945,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 1945,
+		"production_company_id" : 802
+	},
+	{
+		"movie_id" : 1945,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 39310,
+		"production_company_id" : 4319
+	},
+	{
+		"movie_id" : 109560,
+		"production_company_id" : 7260
+	},
+	{
+		"movie_id" : 109560,
+		"production_company_id" : 42935
+	},
+	{
+		"movie_id" : 56428,
+		"production_company_id" : 11139
+	},
+	{
+		"movie_id" : 63105,
+		"production_company_id" : 7954
+	},
+	{
+		"movie_id" : 63105,
+		"production_company_id" : 21437
+	},
+	{
+		"movie_id" : 131957,
+		"production_company_id" : 23098
+	},
+	{
+		"movie_id" : 241,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 241,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 241,
+		"production_company_id" : 4198
+	},
+	{
+		"movie_id" : 241,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 241,
+		"production_company_id" : 10104
+	},
+	{
+		"movie_id" : 241,
+		"production_company_id" : 68551
+	},
+	{
+		"movie_id" : 9058,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 527,
+		"production_company_id" : 293
+	},
+	{
+		"movie_id" : 527,
+		"production_company_id" : 294
+	},
+	{
+		"movie_id" : 527,
+		"production_company_id" : 295
+	},
+	{
+		"movie_id" : 18220,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 18220,
+		"production_company_id" : 17067
+	},
+	{
+		"movie_id" : 18220,
+		"production_company_id" : 17068
+	},
+	{
+		"movie_id" : 6950,
+		"production_company_id" : 824
+	},
+	{
+		"movie_id" : 6950,
+		"production_company_id" : 2154
+	},
+	{
+		"movie_id" : 6950,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 6950,
+		"production_company_id" : 16775
+	},
+	{
+		"movie_id" : 101,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 101,
+		"production_company_id" : 9
+	},
+	{
+		"movie_id" : 63020,
+		"production_company_id" : 28205
+	},
+	{
+		"movie_id" : 2307,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 680,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 680,
+		"production_company_id" : 59
+	},
+	{
+		"movie_id" : 680,
+		"production_company_id" : 216
+	},
+	{
+		"movie_id" : 41478,
+		"production_company_id" : 31080
+	},
+	{
+		"movie_id" : 41478,
+		"production_company_id" : 31715
+	},
+	{
+		"movie_id" : 41478,
+		"production_company_id" : 37580
+	},
+	{
+		"movie_id" : 25296,
+		"production_company_id" : 5528
+	},
+	{
+		"movie_id" : 40156,
+		"production_company_id" : 288
+	},
+	{
+		"movie_id" : 40156,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 40156,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 11450,
+		"production_company_id" : 316
+	},
+	{
+		"movie_id" : 11450,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 11450,
+		"production_company_id" : 11407
+	},
+	{
+		"movie_id" : 30304,
+		"production_company_id" : 84839
+	},
+	{
+		"movie_id" : 30304,
+		"production_company_id" : 84840
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 82
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 850
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 6187
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 6541
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 7089
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 8923
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 18367
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 18495
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 10452,
+		"production_company_id" : 75913
+	},
+	{
+		"movie_id" : 12106,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 161495,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 161495,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 161495,
+		"production_company_id" : 12883
+	},
+	{
+		"movie_id" : 3586,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 110,
+		"production_company_id" : 38
+	},
+	{
+		"movie_id" : 110,
+		"production_company_id" : 183
+	},
+	{
+		"movie_id" : 110,
+		"production_company_id" : 591
+	},
+	{
+		"movie_id" : 110,
+		"production_company_id" : 1245
+	},
+	{
+		"movie_id" : 108,
+		"production_company_id" : 591
+	},
+	{
+		"movie_id" : 108,
+		"production_company_id" : 1610
+	},
+	{
+		"movie_id" : 109,
+		"production_company_id" : 183
+	},
+	{
+		"movie_id" : 109,
+		"production_company_id" : 591
+	},
+	{
+		"movie_id" : 109,
+		"production_company_id" : 850
+	},
+	{
+		"movie_id" : 92769,
+		"production_company_id" : 4899
+	},
+	{
+		"movie_id" : 92769,
+		"production_company_id" : 16953
+	},
+	{
+		"movie_id" : 92769,
+		"production_company_id" : 24946
+	},
+	{
+		"movie_id" : 28033,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 22586,
+		"production_company_id" : 4108
+	},
+	{
+		"movie_id" : 14334,
+		"production_company_id" : 29272
+	},
+	{
+		"movie_id" : 14334,
+		"production_company_id" : 29273
+	},
+	{
+		"movie_id" : 2636,
+		"production_company_id" : 2596
+	},
+	{
+		"movie_id" : 2636,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 2636,
+		"production_company_id" : 11134
+	},
+	{
+		"movie_id" : 2164,
+		"production_company_id" : 347
+	},
+	{
+		"movie_id" : 2164,
+		"production_company_id" : 694
+	},
+	{
+		"movie_id" : 2164,
+		"production_company_id" : 10320
+	},
+	{
+		"movie_id" : 11395,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 11395,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 278,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 278,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9905,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 9905,
+		"production_company_id" : 359
+	},
+	{
+		"movie_id" : 9905,
+		"production_company_id" : 980
+	},
+	{
+		"movie_id" : 9905,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 87078,
+		"production_company_id" : 78701
+	},
+	{
+		"movie_id" : 12527,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 12527,
+		"production_company_id" : 6647
+	},
+	{
+		"movie_id" : 12527,
+		"production_company_id" : 8861
+	},
+	{
+		"movie_id" : 12527,
+		"production_company_id" : 10015
+	},
+	{
+		"movie_id" : 20306,
+		"production_company_id" : 2832
+	},
+	{
+		"movie_id" : 20306,
+		"production_company_id" : 4063
+	},
+	{
+		"movie_id" : 36614,
+		"production_company_id" : 798
+	},
+	{
+		"movie_id" : 27993,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 27993,
+		"production_company_id" : 4733
+	},
+	{
+		"movie_id" : 27993,
+		"production_company_id" : 4734
+	},
+	{
+		"movie_id" : 31439,
+		"production_company_id" : 1078
+	},
+	{
+		"movie_id" : 31439,
+		"production_company_id" : 25299
+	},
+	{
+		"movie_id" : 9067,
+		"production_company_id" : 2231
+	},
+	{
+		"movie_id" : 9059,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9059,
+		"production_company_id" : 69626
+	},
+	{
+		"movie_id" : 193,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 25066,
+		"production_company_id" : 4319
+	},
+	{
+		"movie_id" : 25066,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 12122,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11381,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 32636,
+		"production_company_id" : 58
+	},
+	{
+		"movie_id" : 36141,
+		"production_company_id" : 14729
+	},
+	{
+		"movie_id" : 95963,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 95963,
+		"production_company_id" : 23808
+	},
+	{
+		"movie_id" : 95963,
+		"production_company_id" : 37350
+	},
+	{
+		"movie_id" : 1587,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9271,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 2064,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 2064,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 19855,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 60855,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 60855,
+		"production_company_id" : 806
+	},
+	{
+		"movie_id" : 60855,
+		"production_company_id" : 4908
+	},
+	{
+		"movie_id" : 60855,
+		"production_company_id" : 17027
+	},
+	{
+		"movie_id" : 60855,
+		"production_company_id" : 36024
+	},
+	{
+		"movie_id" : 236,
+		"production_company_id" : 105
+	},
+	{
+		"movie_id" : 236,
+		"production_company_id" : 11840
+	},
+	{
+		"movie_id" : 236,
+		"production_company_id" : 39250
+	},
+	{
+		"movie_id" : 48287,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 48287,
+		"production_company_id" : 10157
+	},
+	{
+		"movie_id" : 3049,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 3049,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 2759,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 12635,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 10497,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 10497,
+		"production_company_id" : 355
+	},
+	{
+		"movie_id" : 10497,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 10497,
+		"production_company_id" : 635
+	},
+	{
+		"movie_id" : 10497,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 10497,
+		"production_company_id" : 8131
+	},
+	{
+		"movie_id" : 11382,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 9331,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9331,
+		"production_company_id" : 2767
+	},
+	{
+		"movie_id" : 10731,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 10731,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 10731,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10464,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 34152,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 34152,
+		"production_company_id" : 4319
+	},
+	{
+		"movie_id" : 9495,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 9495,
+		"production_company_id" : 4028
+	},
+	{
+		"movie_id" : 9495,
+		"production_company_id" : 4029
+	},
+	{
+		"movie_id" : 9495,
+		"production_company_id" : 4030
+	},
+	{
+		"movie_id" : 9495,
+		"production_company_id" : 6455
+	},
+	{
+		"movie_id" : 29973,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 29973,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 29973,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 29973,
+		"production_company_id" : 16823
+	},
+	{
+		"movie_id" : 888,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 888,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 888,
+		"production_company_id" : 1353
+	},
+	{
+		"movie_id" : 13,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 712,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 712,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 712,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 16295,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 16295,
+		"production_company_id" : 1947
+	},
+	{
+		"movie_id" : 48992,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 48992,
+		"production_company_id" : 37294
+	},
+	{
+		"movie_id" : 48992,
+		"production_company_id" : 37295
+	},
+	{
+		"movie_id" : 10879,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 10879,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 10660,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 41647,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 41647,
+		"production_company_id" : 201
+	},
+	{
+		"movie_id" : 41647,
+		"production_company_id" : 4606
+	},
+	{
+		"movie_id" : 41647,
+		"production_company_id" : 12914
+	},
+	{
+		"movie_id" : 41647,
+		"production_company_id" : 12915
+	},
+	{
+		"movie_id" : 41647,
+		"production_company_id" : 12916
+	},
+	{
+		"movie_id" : 8587,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 8587,
+		"production_company_id" : 10217
+	},
+	{
+		"movie_id" : 1689,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 11596,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 854,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 854,
+		"production_company_id" : 552
+	},
+	{
+		"movie_id" : 9359,
+		"production_company_id" : 4564
+	},
+	{
+		"movie_id" : 9359,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 23333,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 23333,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 36593,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 12280,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 12280,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 2788,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 2788,
+		"production_company_id" : 216
+	},
+	{
+		"movie_id" : 10427,
+		"production_company_id" : 278
+	},
+	{
+		"movie_id" : 10427,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 11011,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 11011,
+		"production_company_id" : 1885
+	},
+	{
+		"movie_id" : 11011,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 49803,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 8987,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 8987,
+		"production_company_id" : 496
+	},
+	{
+		"movie_id" : 8987,
+		"production_company_id" : 662
+	},
+	{
+		"movie_id" : 1637,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 15128,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 8831,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 8831,
+		"production_company_id" : 467
+	},
+	{
+		"movie_id" : 8831,
+		"production_company_id" : 552
+	},
+	{
+		"movie_id" : 8831,
+		"production_company_id" : 1644
+	},
+	{
+		"movie_id" : 8831,
+		"production_company_id" : 2982
+	},
+	{
+		"movie_id" : 8831,
+		"production_company_id" : 4248
+	},
+	{
+		"movie_id" : 36955,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 36955,
+		"production_company_id" : 574
+	},
+	{
+		"movie_id" : 10449,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 10395,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 12160,
+		"production_company_id" : 335
+	},
+	{
+		"movie_id" : 12160,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 12160,
+		"production_company_id" : 13040
+	},
+	{
+		"movie_id" : 12160,
+		"production_company_id" : 24217
+	},
+	{
+		"movie_id" : 40480,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 40480,
+		"production_company_id" : 21857
+	},
+	{
+		"movie_id" : 52038,
+		"production_company_id" : 288
+	},
+	{
+		"movie_id" : 52038,
+		"production_company_id" : 2630
+	},
+	{
+		"movie_id" : 52038,
+		"production_company_id" : 11358
+	},
+	{
+		"movie_id" : 29444,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 29444,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 26352,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 26352,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 39953,
+		"production_company_id" : 3923
+	},
+	{
+		"movie_id" : 39953,
+		"production_company_id" : 25583
+	},
+	{
+		"movie_id" : 315,
+		"production_company_id" : 170
+	},
+	{
+		"movie_id" : 18242,
+		"production_company_id" : 6215
+	},
+	{
+		"movie_id" : 18242,
+		"production_company_id" : 6216
+	},
+	{
+		"movie_id" : 18242,
+		"production_company_id" : 6217
+	},
+	{
+		"movie_id" : 11667,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11667,
+		"production_company_id" : 7220
+	},
+	{
+		"movie_id" : 32502,
+		"production_company_id" : 278
+	},
+	{
+		"movie_id" : 32502,
+		"production_company_id" : 11061
+	},
+	{
+		"movie_id" : 32502,
+		"production_company_id" : 31080
+	},
+	{
+		"movie_id" : 32502,
+		"production_company_id" : 33419
+	},
+	{
+		"movie_id" : 28732,
+		"production_company_id" : 285
+	},
+	{
+		"movie_id" : 28732,
+		"production_company_id" : 826
+	},
+	{
+		"movie_id" : 28732,
+		"production_company_id" : 16835
+	},
+	{
+		"movie_id" : 75555,
+		"production_company_id" : 14280
+	},
+	{
+		"movie_id" : 75555,
+		"production_company_id" : 37300
+	},
+	{
+		"movie_id" : 42981,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 42981,
+		"production_company_id" : 90509
+	},
+	{
+		"movie_id" : 278939,
+		"production_company_id" : 888
+	},
+	{
+		"movie_id" : 291731,
+		"production_company_id" : 38179
+	},
+	{
+		"movie_id" : 291731,
+		"production_company_id" : 38289
+	},
+	{
+		"movie_id" : 203119,
+		"production_company_id" : 3268
+	},
+	{
+		"movie_id" : 203119,
+		"production_company_id" : 38276
+	},
+	{
+		"movie_id" : 8011,
+		"production_company_id" : 2662
+	},
+	{
+		"movie_id" : 8011,
+		"production_company_id" : 22240
+	},
+	{
+		"movie_id" : 8011,
+		"production_company_id" : 25129
+	},
+	{
+		"movie_id" : 8011,
+		"production_company_id" : 30655
+	},
+	{
+		"movie_id" : 2654,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 18069,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 19092,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 2758,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 2758,
+		"production_company_id" : 41
+	},
+	{
+		"movie_id" : 2758,
+		"production_company_id" : 258
+	},
+	{
+		"movie_id" : 38129,
+		"production_company_id" : 21222
+	},
+	{
+		"movie_id" : 10436,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 13595,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 13595,
+		"production_company_id" : 1595
+	},
+	{
+		"movie_id" : 13595,
+		"production_company_id" : 3929
+	},
+	{
+		"movie_id" : 46094,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 46094,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 46094,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 46094,
+		"production_company_id" : 12883
+	},
+	{
+		"movie_id" : 46094,
+		"production_company_id" : 82606
+	},
+	{
+		"movie_id" : 46094,
+		"production_company_id" : 82607
+	},
+	{
+		"movie_id" : 9409,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 11853,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 11853,
+		"production_company_id" : 89311
+	},
+	{
+		"movie_id" : 16771,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 16771,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 16771,
+		"production_company_id" : 16737
+	},
+	{
+		"movie_id" : 46924,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 46924,
+		"production_company_id" : 7049
+	},
+	{
+		"movie_id" : 46924,
+		"production_company_id" : 58750
+	},
+	{
+		"movie_id" : 46924,
+		"production_company_id" : 79560
+	},
+	{
+		"movie_id" : 46924,
+		"production_company_id" : 79561
+	},
+	{
+		"movie_id" : 11041,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 306,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 306,
+		"production_company_id" : 30
+	},
+	{
+		"movie_id" : 14522,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 26203,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 178,
+		"production_company_id" : 2231
+	},
+	{
+		"movie_id" : 178,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 19819,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 57834,
+		"production_company_id" : 14150
+	},
+	{
+		"movie_id" : 57834,
+		"production_company_id" : 18070
+	},
+	{
+		"movie_id" : 4722,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 4722,
+		"production_company_id" : 10098
+	},
+	{
+		"movie_id" : 4722,
+		"production_company_id" : 10099
+	},
+	{
+		"movie_id" : 18215,
+		"production_company_id" : 70969
+	},
+	{
+		"movie_id" : 1607,
+		"production_company_id" : 7429
+	},
+	{
+		"movie_id" : 1607,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 26391,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 117553,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 117553,
+		"production_company_id" : 1350
+	},
+	{
+		"movie_id" : 6075,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 6075,
+		"production_company_id" : 1988
+	},
+	{
+		"movie_id" : 6075,
+		"production_company_id" : 11393
+	},
+	{
+		"movie_id" : 11310,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 11310,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 18658,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 9350,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9350,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 9350,
+		"production_company_id" : 14723
+	},
+	{
+		"movie_id" : 9350,
+		"production_company_id" : 23246
+	},
+	{
+		"movie_id" : 9350,
+		"production_company_id" : 45728
+	},
+	{
+		"movie_id" : 9350,
+		"production_company_id" : 45729
+	},
+	{
+		"movie_id" : 9612,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 2124,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 2124,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 26261,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 19176,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 19176,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 49299,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 49299,
+		"production_company_id" : 36863
+	},
+	{
+		"movie_id" : 49299,
+		"production_company_id" : 36864
+	},
+	{
+		"movie_id" : 49299,
+		"production_company_id" : 36865
+	},
+	{
+		"movie_id" : 49299,
+		"production_company_id" : 68062
+	},
+	{
+		"movie_id" : 11566,
+		"production_company_id" : 5739
+	},
+	{
+		"movie_id" : 11566,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11566,
+		"production_company_id" : 8816
+	},
+	{
+		"movie_id" : 9571,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 9571,
+		"production_company_id" : 6556
+	},
+	{
+		"movie_id" : 9571,
+		"production_company_id" : 10932
+	},
+	{
+		"movie_id" : 9739,
+		"production_company_id" : 1885
+	},
+	{
+		"movie_id" : 9739,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 34444,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 26141,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 10997,
+		"production_company_id" : 708
+	},
+	{
+		"movie_id" : 10997,
+		"production_company_id" : 2269
+	},
+	{
+		"movie_id" : 10997,
+		"production_company_id" : 36863
+	},
+	{
+		"movie_id" : 50463,
+		"production_company_id" : 41
+	},
+	{
+		"movie_id" : 50463,
+		"production_company_id" : 365
+	},
+	{
+		"movie_id" : 10443,
+		"production_company_id" : 705
+	},
+	{
+		"movie_id" : 10443,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 16297,
+		"production_company_id" : 705
+	},
+	{
+		"movie_id" : 16297,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 18551,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 18551,
+		"production_company_id" : 705
+	},
+	{
+		"movie_id" : 18551,
+		"production_company_id" : 19534
+	},
+	{
+		"movie_id" : 25440,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 9024,
+		"production_company_id" : 13
+	},
+	{
+		"movie_id" : 9024,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 37233,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 37233,
+		"production_company_id" : 932
+	},
+	{
+		"movie_id" : 37233,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 1634,
+		"production_company_id" : 104
+	},
+	{
+		"movie_id" : 1634,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 1634,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 1634,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 1634,
+		"production_company_id" : 23397
+	},
+	{
+		"movie_id" : 13815,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 5503,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 35588,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 2087,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 2087,
+		"production_company_id" : 1644
+	},
+	{
+		"movie_id" : 41579,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 18620,
+		"production_company_id" : 1422
+	},
+	{
+		"movie_id" : 18620,
+		"production_company_id" : 8888
+	},
+	{
+		"movie_id" : 18620,
+		"production_company_id" : 89521
+	},
+	{
+		"movie_id" : 18620,
+		"production_company_id" : 89522
+	},
+	{
+		"movie_id" : 18620,
+		"production_company_id" : 89523
+	},
+	{
+		"movie_id" : 41006,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 4916,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 2019,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 2019,
+		"production_company_id" : 467
+	},
+	{
+		"movie_id" : 2019,
+		"production_company_id" : 11462
+	},
+	{
+		"movie_id" : 31642,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 31642,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9255,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 9255,
+		"production_company_id" : 11751
+	},
+	{
+		"movie_id" : 26271,
+		"production_company_id" : 272
+	},
+	{
+		"movie_id" : 26271,
+		"production_company_id" : 1930
+	},
+	{
+		"movie_id" : 26271,
+		"production_company_id" : 10348
+	},
+	{
+		"movie_id" : 10612,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 10612,
+		"production_company_id" : 983
+	},
+	{
+		"movie_id" : 2259,
+		"production_company_id" : 118
+	},
+	{
+		"movie_id" : 2259,
+		"production_company_id" : 705
+	},
+	{
+		"movie_id" : 2259,
+		"production_company_id" : 850
+	},
+	{
+		"movie_id" : 2259,
+		"production_company_id" : 10598
+	},
+	{
+		"movie_id" : 2259,
+		"production_company_id" : 13096
+	},
+	{
+		"movie_id" : 2259,
+		"production_company_id" : 33027
+	},
+	{
+		"movie_id" : 11934,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 11934,
+		"production_company_id" : 1885
+	},
+	{
+		"movie_id" : 11934,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11934,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 11934,
+		"production_company_id" : 23873
+	},
+	{
+		"movie_id" : 106143,
+		"production_company_id" : 18
+	},
+	{
+		"movie_id" : 106143,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 12475,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9386,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 9386,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 59930,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 15765,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 31643,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 31643,
+		"production_company_id" : 11407
+	},
+	{
+		"movie_id" : 6,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 6,
+		"production_company_id" : 1644
+	},
+	{
+		"movie_id" : 6,
+		"production_company_id" : 4248
+	},
+	{
+		"movie_id" : 329,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 329,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 10909,
+		"production_company_id" : 278
+	},
+	{
+		"movie_id" : 10909,
+		"production_company_id" : 3589
+	},
+	{
+		"movie_id" : 507,
+		"production_company_id" : 285
+	},
+	{
+		"movie_id" : 34024,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 29918,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9593,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 9593,
+		"production_company_id" : 55528
+	},
+	{
+		"movie_id" : 42580,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 22317,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 1413,
+		"production_company_id" : 360
+	},
+	{
+		"movie_id" : 1413,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 12121,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 12121,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 2246,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 2246,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 2246,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 2246,
+		"production_company_id" : 1023
+	},
+	{
+		"movie_id" : 10502,
+		"production_company_id" : 4564
+	},
+	{
+		"movie_id" : 10502,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10440,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9516,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 2320,
+		"production_company_id" : 1885
+	},
+	{
+		"movie_id" : 2320,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 5879,
+		"production_company_id" : 6116
+	},
+	{
+		"movie_id" : 5879,
+		"production_company_id" : 13139
+	},
+	{
+		"movie_id" : 5879,
+		"production_company_id" : 14668
+	},
+	{
+		"movie_id" : 83718,
+		"production_company_id" : 8888
+	},
+	{
+		"movie_id" : 83718,
+		"production_company_id" : 10565
+	},
+	{
+		"movie_id" : 11971,
+		"production_company_id" : 3102
+	},
+	{
+		"movie_id" : 11971,
+		"production_company_id" : 8827
+	},
+	{
+		"movie_id" : 2625,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 2625,
+		"production_company_id" : 1177
+	},
+	{
+		"movie_id" : 31911,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 31911,
+		"production_company_id" : 8888
+	},
+	{
+		"movie_id" : 31911,
+		"production_company_id" : 16827
+	},
+	{
+		"movie_id" : 788,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 788,
+		"production_company_id" : 10230
+	},
+	{
+		"movie_id" : 21450,
+		"production_company_id" : 10100
+	},
+	{
+		"movie_id" : 21450,
+		"production_company_id" : 10932
+	},
+	{
+		"movie_id" : 11231,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 41588,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 41588,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 41588,
+		"production_company_id" : 4198
+	},
+	{
+		"movie_id" : 41588,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 41588,
+		"production_company_id" : 10104
+	},
+	{
+		"movie_id" : 10447,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 10447,
+		"production_company_id" : 1280
+	},
+	{
+		"movie_id" : 10447,
+		"production_company_id" : 1755
+	},
+	{
+		"movie_id" : 10447,
+		"production_company_id" : 4972
+	},
+	{
+		"movie_id" : 31586,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 31586,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 31586,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 9300,
+		"production_company_id" : 11912
+	},
+	{
+		"movie_id" : 9300,
+		"production_company_id" : 27593
+	},
+	{
+		"movie_id" : 9300,
+		"production_company_id" : 36765
+	},
+	{
+		"movie_id" : 9559,
+		"production_company_id" : 171
+	},
+	{
+		"movie_id" : 9559,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9800,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9800,
+		"production_company_id" : 1274
+	},
+	{
+		"movie_id" : 713,
+		"production_company_id" : 418
+	},
+	{
+		"movie_id" : 713,
+		"production_company_id" : 5186
+	},
+	{
+		"movie_id" : 713,
+		"production_company_id" : 7832
+	},
+	{
+		"movie_id" : 713,
+		"production_company_id" : 14089
+	},
+	{
+		"movie_id" : 8291,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 18133,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 25557,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 22588,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 10872,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 10872,
+		"production_company_id" : 10288
+	},
+	{
+		"movie_id" : 1245,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 1245,
+		"production_company_id" : 2370
+	},
+	{
+		"movie_id" : 11858,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 11858,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 7007,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 7007,
+		"production_company_id" : 8780
+	},
+	{
+		"movie_id" : 10467,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 10467,
+		"production_company_id" : 10157
+	},
+	{
+		"movie_id" : 5550,
+		"production_company_id" : 41
+	},
+	{
+		"movie_id" : 8005,
+		"production_company_id" : 9
+	},
+	{
+		"movie_id" : 8005,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 8005,
+		"production_company_id" : 5612
+	},
+	{
+		"movie_id" : 2088,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 2088,
+		"production_company_id" : 31080
+	},
+	{
+		"movie_id" : 2088,
+		"production_company_id" : 36907
+	},
+	{
+		"movie_id" : 10412,
+		"production_company_id" : 5186
+	},
+	{
+		"movie_id" : 10412,
+		"production_company_id" : 11840
+	},
+	{
+		"movie_id" : 10412,
+		"production_company_id" : 39712
+	},
+	{
+		"movie_id" : 10412,
+		"production_company_id" : 50619
+	},
+	{
+		"movie_id" : 47889,
+		"production_company_id" : 75712
+	},
+	{
+		"movie_id" : 47889,
+		"production_company_id" : 75713
+	},
+	{
+		"movie_id" : 14534,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 56583,
+		"production_company_id" : 14374
+	},
+	{
+		"movie_id" : 56583,
+		"production_company_id" : 36789
+	},
+	{
+		"movie_id" : 56583,
+		"production_company_id" : 36790
+	},
+	{
+		"movie_id" : 41878,
+		"production_company_id" : 249
+	},
+	{
+		"movie_id" : 41878,
+		"production_company_id" : 16366
+	},
+	{
+		"movie_id" : 424,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 424,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 35233,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 35233,
+		"production_company_id" : 28822
+	},
+	{
+		"movie_id" : 14291,
+		"production_company_id" : 932
+	},
+	{
+		"movie_id" : 103413,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 103413,
+		"production_company_id" : 644
+	},
+	{
+		"movie_id" : 103413,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 103413,
+		"production_company_id" : 37265
+	},
+	{
+		"movie_id" : 11236,
+		"production_company_id" : 70
+	},
+	{
+		"movie_id" : 11236,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11592,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 11592,
+		"production_company_id" : 17411
+	},
+	{
+		"movie_id" : 8850,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 10445,
+		"production_company_id" : 5553
+	},
+	{
+		"movie_id" : 10445,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 695,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 695,
+		"production_company_id" : 272
+	},
+	{
+		"movie_id" : 695,
+		"production_company_id" : 408
+	},
+	{
+		"movie_id" : 43535,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 12519,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 12519,
+		"production_company_id" : 25158
+	},
+	{
+		"movie_id" : 12519,
+		"production_company_id" : 25159
+	},
+	{
+		"movie_id" : 12519,
+		"production_company_id" : 25160
+	},
+	{
+		"movie_id" : 23210,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 23210,
+		"production_company_id" : 10104
+	},
+	{
+		"movie_id" : 23210,
+		"production_company_id" : 36889
+	},
+	{
+		"movie_id" : 858,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 867,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 867,
+		"production_company_id" : 94856
+	},
+	{
+		"movie_id" : 78,
+		"production_company_id" : 5798
+	},
+	{
+		"movie_id" : 78,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 78,
+		"production_company_id" : 7965
+	},
+	{
+		"movie_id" : 13203,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 10442,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 11074,
+		"production_company_id" : 5848
+	},
+	{
+		"movie_id" : 11074,
+		"production_company_id" : 6386
+	},
+	{
+		"movie_id" : 9607,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9607,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 9607,
+		"production_company_id" : 1755
+	},
+	{
+		"movie_id" : 9607,
+		"production_company_id" : 5888
+	},
+	{
+		"movie_id" : 9607,
+		"production_company_id" : 12288
+	},
+	{
+		"movie_id" : 17585,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 9057,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9057,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 9057,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 9057,
+		"production_company_id" : 12883
+	},
+	{
+		"movie_id" : 20967,
+		"production_company_id" : 164
+	},
+	{
+		"movie_id" : 10635,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 10635,
+		"production_company_id" : 11061
+	},
+	{
+		"movie_id" : 9479,
+		"production_company_id" : 8601
+	},
+	{
+		"movie_id" : 9479,
+		"production_company_id" : 8835
+	},
+	{
+		"movie_id" : 9479,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 10057,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 10057,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 11969,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 11969,
+		"production_company_id" : 1504
+	},
+	{
+		"movie_id" : 41590,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 41590,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 319,
+		"production_company_id" : 342
+	},
+	{
+		"movie_id" : 319,
+		"production_company_id" : 3322
+	},
+	{
+		"movie_id" : 319,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 319,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 15139,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 15139,
+		"production_company_id" : 6189
+	},
+	{
+		"movie_id" : 161158,
+		"production_company_id" : 806
+	},
+	{
+		"movie_id" : 161158,
+		"production_company_id" : 1203
+	},
+	{
+		"movie_id" : 161158,
+		"production_company_id" : 2480
+	},
+	{
+		"movie_id" : 85247,
+		"production_company_id" : 10348
+	},
+	{
+		"movie_id" : 85247,
+		"production_company_id" : 37572
+	},
+	{
+		"movie_id" : 51980,
+		"production_company_id" : 82
+	},
+	{
+		"movie_id" : 51980,
+		"production_company_id" : 83
+	},
+	{
+		"movie_id" : 51980,
+		"production_company_id" : 1524
+	},
+	{
+		"movie_id" : 24405,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 24405,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 11655,
+		"production_company_id" : 6566
+	},
+	{
+		"movie_id" : 11800,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 11800,
+		"production_company_id" : 2658
+	},
+	{
+		"movie_id" : 8223,
+		"production_company_id" : 7832
+	},
+	{
+		"movie_id" : 8223,
+		"production_company_id" : 11736
+	},
+	{
+		"movie_id" : 14587,
+		"production_company_id" : 5778
+	},
+	{
+		"movie_id" : 31504,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 31504,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 41653,
+		"production_company_id" : 157
+	},
+	{
+		"movie_id" : 41653,
+		"production_company_id" : 235
+	},
+	{
+		"movie_id" : 41653,
+		"production_company_id" : 6181
+	},
+	{
+		"movie_id" : 41653,
+		"production_company_id" : 7446
+	},
+	{
+		"movie_id" : 17600,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 17600,
+		"production_company_id" : 55150
+	},
+	{
+		"movie_id" : 17600,
+		"production_company_id" : 55151
+	},
+	{
+		"movie_id" : 10897,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 10897,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 10897,
+		"production_company_id" : 23506
+	},
+	{
+		"movie_id" : 21352,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 37345,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 58
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 201
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 1606
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 3268
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 3614
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 4606
+	},
+	{
+		"movie_id" : 32562,
+		"production_company_id" : 58855
+	},
+	{
+		"movie_id" : 25403,
+		"production_company_id" : 9364
+	},
+	{
+		"movie_id" : 25403,
+		"production_company_id" : 16366
+	},
+	{
+		"movie_id" : 25403,
+		"production_company_id" : 20769
+	},
+	{
+		"movie_id" : 124304,
+		"production_company_id" : 37352
+	},
+	{
+		"movie_id" : 124304,
+		"production_company_id" : 37353
+	},
+	{
+		"movie_id" : 124304,
+		"production_company_id" : 37354
+	},
+	{
+		"movie_id" : 9066,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 771,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 771,
+		"production_company_id" : 477
+	},
+	{
+		"movie_id" : 251,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 812,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 280,
+		"production_company_id" : 574
+	},
+	{
+		"movie_id" : 280,
+		"production_company_id" : 1280
+	},
+	{
+		"movie_id" : 280,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 280,
+		"production_company_id" : 14723
+	},
+	{
+		"movie_id" : 280,
+		"production_company_id" : 61409
+	},
+	{
+		"movie_id" : 581,
+		"production_company_id" : 335
+	},
+	{
+		"movie_id" : 581,
+		"production_company_id" : 2630
+	},
+	{
+		"movie_id" : 80350,
+		"production_company_id" : 16636
+	},
+	{
+		"movie_id" : 268,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 268,
+		"production_company_id" : 4357
+	},
+	{
+		"movie_id" : 268,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 274,
+		"production_company_id" : 41
+	},
+	{
+		"movie_id" : 274,
+		"production_company_id" : 55072
+	},
+	{
+		"movie_id" : 408,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 10020,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 10020,
+		"production_company_id" : 6125
+	},
+	{
+		"movie_id" : 10020,
+		"production_company_id" : 10282
+	},
+	{
+		"movie_id" : 10895,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 10895,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 114,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 114,
+		"production_company_id" : 10282
+	},
+	{
+		"movie_id" : 41043,
+		"production_company_id" : 7399
+	},
+	{
+		"movie_id" : 41043,
+		"production_company_id" : 23647
+	},
+	{
+		"movie_id" : 41043,
+		"production_company_id" : 38963
+	},
+	{
+		"movie_id" : 576,
+		"production_company_id" : 4051
+	},
+	{
+		"movie_id" : 15477,
+		"production_company_id" : 4063
+	},
+	{
+		"movie_id" : 59146,
+		"production_company_id" : 5551
+	},
+	{
+		"movie_id" : 30528,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 30528,
+		"production_company_id" : 46108
+	},
+	{
+		"movie_id" : 7300,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 7300,
+		"production_company_id" : 711
+	},
+	{
+		"movie_id" : 7300,
+		"production_company_id" : 10103
+	},
+	{
+		"movie_id" : 7300,
+		"production_company_id" : 81131
+	},
+	{
+		"movie_id" : 10824,
+		"production_company_id" : 278
+	},
+	{
+		"movie_id" : 10824,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 261246,
+		"production_company_id" : 5996
+	},
+	{
+		"movie_id" : 275,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 275,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 25059,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 11827,
+		"production_company_id" : 4952
+	},
+	{
+		"movie_id" : 8766,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 8766,
+		"production_company_id" : 7405
+	},
+	{
+		"movie_id" : 8766,
+		"production_company_id" : 15343
+	},
+	{
+		"movie_id" : 23570,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 23570,
+		"production_company_id" : 65446
+	},
+	{
+		"movie_id" : 47333,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 10112,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 4307,
+		"production_company_id" : 49
+	},
+	{
+		"movie_id" : 4307,
+		"production_company_id" : 105
+	},
+	{
+		"movie_id" : 46029,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 46029,
+		"production_company_id" : 6861
+	},
+	{
+		"movie_id" : 46029,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 46029,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 46029,
+		"production_company_id" : 20295
+	},
+	{
+		"movie_id" : 46029,
+		"production_company_id" : 21108
+	},
+	{
+		"movie_id" : 32308,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 52873,
+		"production_company_id" : 356
+	},
+	{
+		"movie_id" : 52873,
+		"production_company_id" : 635
+	},
+	{
+		"movie_id" : 44281,
+		"production_company_id" : 71842
+	},
+	{
+		"movie_id" : 44281,
+		"production_company_id" : 75423
+	},
+	{
+		"movie_id" : 44281,
+		"production_company_id" : 75424
+	},
+	{
+		"movie_id" : 28121,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 28121,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 12520,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 12520,
+		"production_company_id" : 6032
+	},
+	{
+		"movie_id" : 12520,
+		"production_company_id" : 38091
+	},
+	{
+		"movie_id" : 1592,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 19042,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 45
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 225
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 315
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 744
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 850
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 982
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 983
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 986
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 3324
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 6639
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 9335
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 10163
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 12745
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 14245
+	},
+	{
+		"movie_id" : 38884,
+		"production_company_id" : 30226
+	},
+	{
+		"movie_id" : 47449,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 47449,
+		"production_company_id" : 38179
+	},
+	{
+		"movie_id" : 47449,
+		"production_company_id" : 38180
+	},
+	{
+		"movie_id" : 36259,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 41852,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 9099,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 9099,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 2021,
+		"production_company_id" : 247
+	},
+	{
+		"movie_id" : 2021,
+		"production_company_id" : 271
+	},
+	{
+		"movie_id" : 2021,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 2021,
+		"production_company_id" : 20777
+	},
+	{
+		"movie_id" : 2021,
+		"production_company_id" : 31080
+	},
+	{
+		"movie_id" : 61752,
+		"production_company_id" : 43
+	},
+	{
+		"movie_id" : 61752,
+		"production_company_id" : 4319
+	},
+	{
+		"movie_id" : 10988,
+		"production_company_id" : 976
+	},
+	{
+		"movie_id" : 10988,
+		"production_company_id" : 3668
+	},
+	{
+		"movie_id" : 10988,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10988,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 11479,
+		"production_company_id" : 311
+	},
+	{
+		"movie_id" : 11479,
+		"production_company_id" : 3823
+	},
+	{
+		"movie_id" : 11479,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 11479,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 11479,
+		"production_company_id" : 14191
+	},
+	{
+		"movie_id" : 398959,
+		"production_company_id" : 101
+	},
+	{
+		"movie_id" : 398959,
+		"production_company_id" : 80481
+	},
+	{
+		"movie_id" : 287305,
+		"production_company_id" : 7025
+	},
+	{
+		"movie_id" : 339428,
+		"production_company_id" : 191
+	},
+	{
+		"movie_id" : 10684,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 10684,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 954,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 954,
+		"production_company_id" : 44
+	},
+	{
+		"movie_id" : 68445,
+		"production_company_id" : 7325
+	},
+	{
+		"movie_id" : 68445,
+		"production_company_id" : 7326
+	},
+	{
+		"movie_id" : 68445,
+		"production_company_id" : 7327
+	},
+	{
+		"movie_id" : 18989,
+		"production_company_id" : 2231
+	},
+	{
+		"movie_id" : 18989,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 18989,
+		"production_company_id" : 10355
+	},
+	{
+		"movie_id" : 10801,
+		"production_company_id" : 47
+	},
+	{
+		"movie_id" : 54285,
+		"production_company_id" : 6636
+	},
+	{
+		"movie_id" : 8840,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11107,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 11107,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 11107,
+		"production_company_id" : 3492
+	},
+	{
+		"movie_id" : 16417,
+		"production_company_id" : 1066
+	},
+	{
+		"movie_id" : 16417,
+		"production_company_id" : 38208
+	},
+	{
+		"movie_id" : 16417,
+		"production_company_id" : 38209
+	},
+	{
+		"movie_id" : 10363,
+		"production_company_id" : 641
+	},
+	{
+		"movie_id" : 10363,
+		"production_company_id" : 7046
+	},
+	{
+		"movie_id" : 10363,
+		"production_company_id" : 11290
+	},
+	{
+		"movie_id" : 161070,
+		"production_company_id" : 247
+	},
+	{
+		"movie_id" : 161070,
+		"production_company_id" : 20928
+	},
+	{
+		"movie_id" : 161070,
+		"production_company_id" : 38178
+	},
+	{
+		"movie_id" : 10539,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 10539,
+		"production_company_id" : 1755
+	},
+	{
+		"movie_id" : 10543,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 10543,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 18414,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 18414,
+		"production_company_id" : 126
+	},
+	{
+		"movie_id" : 47502,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 47502,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 11902,
+		"production_company_id" : 653
+	},
+	{
+		"movie_id" : 11902,
+		"production_company_id" : 6242
+	},
+	{
+		"movie_id" : 27098,
+		"production_company_id" : 17666
+	},
+	{
+		"movie_id" : 25087,
+		"production_company_id" : 10354
+	},
+	{
+		"movie_id" : 5801,
+		"production_company_id" : 1984
+	},
+	{
+		"movie_id" : 896,
+		"production_company_id" : 26424
+	},
+	{
+		"movie_id" : 3065,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 3065,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 3065,
+		"production_company_id" : 1310
+	},
+	{
+		"movie_id" : 2300,
+		"production_company_id" : 3592
+	},
+	{
+		"movie_id" : 2300,
+		"production_company_id" : 8816
+	},
+	{
+		"movie_id" : 2300,
+		"production_company_id" : 55527
+	},
+	{
+		"movie_id" : 8069,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 8069,
+		"production_company_id" : 1216
+	},
+	{
+		"movie_id" : 8069,
+		"production_company_id" : 1497
+	},
+	{
+		"movie_id" : 288173,
+		"production_company_id" : 4106
+	},
+	{
+		"movie_id" : 221917,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 221917,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 221917,
+		"production_company_id" : 16832
+	},
+	{
+		"movie_id" : 8072,
+		"production_company_id" : 46654
+	},
+	{
+		"movie_id" : 8072,
+		"production_company_id" : 54659
+	},
+	{
+		"movie_id" : 8072,
+		"production_company_id" : 63558
+	},
+	{
+		"movie_id" : 35797,
+		"production_company_id" : 875
+	},
+	{
+		"movie_id" : 35797,
+		"production_company_id" : 900
+	},
+	{
+		"movie_id" : 35797,
+		"production_company_id" : 16772
+	},
+	{
+		"movie_id" : 83857,
+		"production_company_id" : 52599
+	},
+	{
+		"movie_id" : 33245,
+		"production_company_id" : 5270
+	},
+	{
+		"movie_id" : 27281,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 27281,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 105045,
+		"production_company_id" : 264
+	},
+	{
+		"movie_id" : 105045,
+		"production_company_id" : 310
+	},
+	{
+		"movie_id" : 105045,
+		"production_company_id" : 1712
+	},
+	{
+		"movie_id" : 105045,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 105045,
+		"production_company_id" : 5982
+	},
+	{
+		"movie_id" : 105045,
+		"production_company_id" : 7025
+	},
+	{
+		"movie_id" : 40001,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 29621,
+		"production_company_id" : 8331
+	},
+	{
+		"movie_id" : 29621,
+		"production_company_id" : 23098
+	},
+	{
+		"movie_id" : 29621,
+		"production_company_id" : 38955
+	},
+	{
+		"movie_id" : 20762,
+		"production_company_id" : 285
+	},
+	{
+		"movie_id" : 48260,
+		"production_company_id" : 1854
+	},
+	{
+		"movie_id" : 48260,
+		"production_company_id" : 8095
+	},
+	{
+		"movie_id" : 48260,
+		"production_company_id" : 12745
+	},
+	{
+		"movie_id" : 12656,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 12656,
+		"production_company_id" : 216
+	},
+	{
+		"movie_id" : 38867,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 38867,
+		"production_company_id" : 2480
+	},
+	{
+		"movie_id" : 38867,
+		"production_company_id" : 26109
+	},
+	{
+		"movie_id" : 25969,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 44103,
+		"production_company_id" : 4655
+	},
+	{
+		"movie_id" : 753,
+		"production_company_id" : 452
+	},
+	{
+		"movie_id" : 753,
+		"production_company_id" : 453
+	},
+	{
+		"movie_id" : 753,
+		"production_company_id" : 454
+	},
+	{
+		"movie_id" : 43634,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 43634,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 43634,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 9103,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9103,
+		"production_company_id" : 2982
+	},
+	{
+		"movie_id" : 9103,
+		"production_company_id" : 10828
+	},
+	{
+		"movie_id" : 9103,
+		"production_company_id" : 38114
+	},
+	{
+		"movie_id" : 29649,
+		"production_company_id" : 216
+	},
+	{
+		"movie_id" : 29649,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 10990,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 8866,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 8866,
+		"production_company_id" : 55140
+	},
+	{
+		"movie_id" : 12233,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 12233,
+		"production_company_id" : 554
+	},
+	{
+		"movie_id" : 23449,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 23449,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 36355,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 36355,
+		"production_company_id" : 27128
+	},
+	{
+		"movie_id" : 36355,
+		"production_company_id" : 38181
+	},
+	{
+		"movie_id" : 37667,
+		"production_company_id" : 1066
+	},
+	{
+		"movie_id" : 37667,
+		"production_company_id" : 3324
+	},
+	{
+		"movie_id" : 37667,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 90148,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 922,
+		"production_company_id" : 182
+	},
+	{
+		"movie_id" : 922,
+		"production_company_id" : 254
+	},
+	{
+		"movie_id" : 922,
+		"production_company_id" : 506
+	},
+	{
+		"movie_id" : 922,
+		"production_company_id" : 663
+	},
+	{
+		"movie_id" : 11876,
+		"production_company_id" : 83
+	},
+	{
+		"movie_id" : 11876,
+		"production_company_id" : 582
+	},
+	{
+		"movie_id" : 11876,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 52633,
+		"production_company_id" : 17777
+	},
+	{
+		"movie_id" : 11687,
+		"production_company_id" : 104
+	},
+	{
+		"movie_id" : 11687,
+		"production_company_id" : 7961
+	},
+	{
+		"movie_id" : 11687,
+		"production_company_id" : 16804
+	},
+	{
+		"movie_id" : 9304,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 73183,
+		"production_company_id" : 33624
+	},
+	{
+		"movie_id" : 9100,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 20759,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 20759,
+		"production_company_id" : 54051
+	},
+	{
+		"movie_id" : 20759,
+		"production_company_id" : 89312
+	},
+	{
+		"movie_id" : 46063,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 40651,
+		"production_company_id" : 254
+	},
+	{
+		"movie_id" : 40651,
+		"production_company_id" : 3541
+	},
+	{
+		"movie_id" : 40651,
+		"production_company_id" : 64448
+	},
+	{
+		"movie_id" : 36915,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 36915,
+		"production_company_id" : 364
+	},
+	{
+		"movie_id" : 36915,
+		"production_company_id" : 6137
+	},
+	{
+		"movie_id" : 36915,
+		"production_company_id" : 10171
+	},
+	{
+		"movie_id" : 36915,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 9802,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9802,
+		"production_company_id" : 10288
+	},
+	{
+		"movie_id" : 25697,
+		"production_company_id" : 364
+	},
+	{
+		"movie_id" : 25697,
+		"production_company_id" : 1121
+	},
+	{
+		"movie_id" : 25697,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 664,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 664,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 664,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 664,
+		"production_company_id" : 23370
+	},
+	{
+		"movie_id" : 11867,
+		"production_company_id" : 278
+	},
+	{
+		"movie_id" : 11867,
+		"production_company_id" : 552
+	},
+	{
+		"movie_id" : 11867,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 47119,
+		"production_company_id" : 83
+	},
+	{
+		"movie_id" : 47119,
+		"production_company_id" : 1524
+	},
+	{
+		"movie_id" : 47119,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 47119,
+		"production_company_id" : 18367
+	},
+	{
+		"movie_id" : 47119,
+		"production_company_id" : 28400
+	},
+	{
+		"movie_id" : 47119,
+		"production_company_id" : 93503
+	},
+	{
+		"movie_id" : 314352,
+		"production_company_id" : 101
+	},
+	{
+		"movie_id" : 314352,
+		"production_company_id" : 740
+	},
+	{
+		"movie_id" : 314352,
+		"production_company_id" : 9023
+	},
+	{
+		"movie_id" : 9323,
+		"production_company_id" : 528
+	},
+	{
+		"movie_id" : 9323,
+		"production_company_id" : 6999
+	},
+	{
+		"movie_id" : 9323,
+		"production_company_id" : 12657
+	},
+	{
+		"movie_id" : 10280,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 10280,
+		"production_company_id" : 10355
+	},
+	{
+		"movie_id" : 10535,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 124613,
+		"production_company_id" : 19262
+	},
+	{
+		"movie_id" : 532,
+		"production_company_id" : 297
+	},
+	{
+		"movie_id" : 26744,
+		"production_company_id" : 3333
+	},
+	{
+		"movie_id" : 26744,
+		"production_company_id" : 19760
+	},
+	{
+		"movie_id" : 16299,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 16299,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 10547,
+		"production_company_id" : 285
+	},
+	{
+		"movie_id" : 10547,
+		"production_company_id" : 12450
+	},
+	{
+		"movie_id" : 10547,
+		"production_company_id" : 12451
+	},
+	{
+		"movie_id" : 245268,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 935,
+		"production_company_id" : 88
+	},
+	{
+		"movie_id" : 935,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 55613,
+		"production_company_id" : 6697
+	},
+	{
+		"movie_id" : 55613,
+		"production_company_id" : 6698
+	},
+	{
+		"movie_id" : 55613,
+		"production_company_id" : 6700
+	},
+	{
+		"movie_id" : 41007,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 41007,
+		"production_company_id" : 36995
+	},
+	{
+		"movie_id" : 35645,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 35645,
+		"production_company_id" : 11393
+	},
+	{
+		"movie_id" : 35645,
+		"production_company_id" : 69627
+	},
+	{
+		"movie_id" : 110465,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 255546,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 255546,
+		"production_company_id" : 21454
+	},
+	{
+		"movie_id" : 40751,
+		"production_company_id" : 708
+	},
+	{
+		"movie_id" : 11101,
+		"production_company_id" : 998
+	},
+	{
+		"movie_id" : 11101,
+		"production_company_id" : 1704
+	},
+	{
+		"movie_id" : 11101,
+		"production_company_id" : 21948
+	},
+	{
+		"movie_id" : 11101,
+		"production_company_id" : 23417
+	},
+	{
+		"movie_id" : 9826,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 9826,
+		"production_company_id" : 79
+	},
+	{
+		"movie_id" : 9826,
+		"production_company_id" : 7965
+	},
+	{
+		"movie_id" : 9879,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 9879,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 22621,
+		"production_company_id" : 4125
+	},
+	{
+		"movie_id" : 7095,
+		"production_company_id" : 70
+	},
+	{
+		"movie_id" : 7095,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 7095,
+		"production_company_id" : 2173
+	},
+	{
+		"movie_id" : 26890,
+		"production_company_id" : 2492
+	},
+	{
+		"movie_id" : 26890,
+		"production_company_id" : 17179
+	},
+	{
+		"movie_id" : 26890,
+		"production_company_id" : 28205
+	},
+	{
+		"movie_id" : 46732,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 46732,
+		"production_company_id" : 17064
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 393
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 5983
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 16975
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 18188
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 30226
+	},
+	{
+		"movie_id" : 124633,
+		"production_company_id" : 86296
+	},
+	{
+		"movie_id" : 77771,
+		"production_company_id" : 72471
+	},
+	{
+		"movie_id" : 77771,
+		"production_company_id" : 72472
+	},
+	{
+		"movie_id" : 181083,
+		"production_company_id" : 72469
+	},
+	{
+		"movie_id" : 41225,
+		"production_company_id" : 512
+	},
+	{
+		"movie_id" : 41225,
+		"production_company_id" : 2260
+	},
+	{
+		"movie_id" : 41225,
+		"production_company_id" : 7508
+	},
+	{
+		"movie_id" : 41225,
+		"production_company_id" : 73349
+	},
+	{
+		"movie_id" : 87190,
+		"production_company_id" : 1152
+	},
+	{
+		"movie_id" : 87190,
+		"production_company_id" : 21072
+	},
+	{
+		"movie_id" : 87190,
+		"production_company_id" : 21073
+	},
+	{
+		"movie_id" : 87190,
+		"production_company_id" : 21074
+	},
+	{
+		"movie_id" : 87190,
+		"production_company_id" : 21075
+	},
+	{
+		"movie_id" : 87190,
+		"production_company_id" : 21076
+	},
+	{
+		"movie_id" : 627,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 627,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 627,
+		"production_company_id" : 358
+	},
+	{
+		"movie_id" : 627,
+		"production_company_id" : 359
+	},
+	{
+		"movie_id" : 627,
+		"production_company_id" : 9349
+	},
+	{
+		"movie_id" : 32872,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 32872,
+		"production_company_id" : 126
+	},
+	{
+		"movie_id" : 602,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 602,
+		"production_company_id" : 347
+	},
+	{
+		"movie_id" : 14553,
+		"production_company_id" : 43
+	},
+	{
+		"movie_id" : 14553,
+		"production_company_id" : 11561
+	},
+	{
+		"movie_id" : 14553,
+		"production_company_id" : 14698
+	},
+	{
+		"movie_id" : 14553,
+		"production_company_id" : 15671
+	},
+	{
+		"movie_id" : 14553,
+		"production_company_id" : 20783
+	},
+	{
+		"movie_id" : 9566,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 9566,
+		"production_company_id" : 1236
+	},
+	{
+		"movie_id" : 10545,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 9894,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 11543,
+		"production_company_id" : 2090
+	},
+	{
+		"movie_id" : 11543,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 9268,
+		"production_company_id" : 824
+	},
+	{
+		"movie_id" : 9268,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9327,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 9327,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 123763,
+		"production_company_id" : 61085
+	},
+	{
+		"movie_id" : 81949,
+		"production_company_id" : 104
+	},
+	{
+		"movie_id" : 81949,
+		"production_company_id" : 6274
+	},
+	{
+		"movie_id" : 183955,
+		"production_company_id" : 4095
+	},
+	{
+		"movie_id" : 183955,
+		"production_company_id" : 50180
+	},
+	{
+		"movie_id" : 44535,
+		"production_company_id" : 231
+	},
+	{
+		"movie_id" : 44535,
+		"production_company_id" : 21304
+	},
+	{
+		"movie_id" : 44535,
+		"production_company_id" : 25129
+	},
+	{
+		"movie_id" : 78285,
+		"production_company_id" : 875
+	},
+	{
+		"movie_id" : 78285,
+		"production_company_id" : 16772
+	},
+	{
+		"movie_id" : 11228,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11228,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 10779,
+		"production_company_id" : 11
+	},
+	{
+		"movie_id" : 10779,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 26748,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 26748,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 26748,
+		"production_company_id" : 11948
+	},
+	{
+		"movie_id" : 38223,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 38223,
+		"production_company_id" : 2070
+	},
+	{
+		"movie_id" : 38223,
+		"production_company_id" : 2348
+	},
+	{
+		"movie_id" : 9294,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 254
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 3644
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 10565
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 11912
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 53407
+	},
+	{
+		"movie_id" : 49963,
+		"production_company_id" : 53408
+	},
+	{
+		"movie_id" : 11363,
+		"production_company_id" : 43
+	},
+	{
+		"movie_id" : 1645,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 1645,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 31546,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 31546,
+		"production_company_id" : 826
+	},
+	{
+		"movie_id" : 31546,
+		"production_company_id" : 2154
+	},
+	{
+		"movie_id" : 31546,
+		"production_company_id" : 28205
+	},
+	{
+		"movie_id" : 31546,
+		"production_company_id" : 28206
+	},
+	{
+		"movie_id" : 77056,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 77056,
+		"production_company_id" : 30232
+	},
+	{
+		"movie_id" : 36344,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 36344,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 36344,
+		"production_company_id" : 87554
+	},
+	{
+		"movie_id" : 18550,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 11511,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 11511,
+		"production_company_id" : 10201
+	},
+	{
+		"movie_id" : 172198,
+		"production_company_id" : 1655
+	},
+	{
+		"movie_id" : 172198,
+		"production_company_id" : 7248
+	},
+	{
+		"movie_id" : 172198,
+		"production_company_id" : 8138
+	},
+	{
+		"movie_id" : 34170,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 34170,
+		"production_company_id" : 2231
+	},
+	{
+		"movie_id" : 34170,
+		"production_company_id" : 2630
+	},
+	{
+		"movie_id" : 124645,
+		"production_company_id" : 3324
+	},
+	{
+		"movie_id" : 12606,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 35206,
+		"production_company_id" : 41954
+	},
+	{
+		"movie_id" : 35206,
+		"production_company_id" : 56112
+	},
+	{
+		"movie_id" : 4837,
+		"production_company_id" : 109
+	},
+	{
+		"movie_id" : 4837,
+		"production_company_id" : 223
+	},
+	{
+		"movie_id" : 9098,
+		"production_company_id" : 328
+	},
+	{
+		"movie_id" : 9098,
+		"production_company_id" : 2572
+	},
+	{
+		"movie_id" : 18975,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 18975,
+		"production_company_id" : 2499
+	},
+	{
+		"movie_id" : 18975,
+		"production_company_id" : 11308
+	},
+	{
+		"movie_id" : 2925,
+		"production_company_id" : 258
+	},
+	{
+		"movie_id" : 28628,
+		"production_company_id" : 1422
+	},
+	{
+		"movie_id" : 28628,
+		"production_company_id" : 3324
+	},
+	{
+		"movie_id" : 28628,
+		"production_company_id" : 17179
+	},
+	{
+		"movie_id" : 3595,
+		"production_company_id" : 9195
+	},
+	{
+		"movie_id" : 3595,
+		"production_company_id" : 90663
+	},
+	{
+		"movie_id" : 9308,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 92381,
+		"production_company_id" : 41
+	},
+	{
+		"movie_id" : 92381,
+		"production_company_id" : 285
+	},
+	{
+		"movie_id" : 18555,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 18555,
+		"production_company_id" : 24827
+	},
+	{
+		"movie_id" : 18555,
+		"production_company_id" : 26192
+	},
+	{
+		"movie_id" : 12123,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 12123,
+		"production_company_id" : 2377
+	},
+	{
+		"movie_id" : 12123,
+		"production_company_id" : 20004
+	},
+	{
+		"movie_id" : 10830,
+		"production_company_id" : 216
+	},
+	{
+		"movie_id" : 10830,
+		"production_company_id" : 559
+	},
+	{
+		"movie_id" : 3573,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 3573,
+		"production_company_id" : 1363
+	},
+	{
+		"movie_id" : 3573,
+		"production_company_id" : 1443
+	},
+	{
+		"movie_id" : 10546,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 18862,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 18862,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 31417,
+		"production_company_id" : 1679
+	},
+	{
+		"movie_id" : 31417,
+		"production_company_id" : 13437
+	},
+	{
+		"movie_id" : 9431,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 9431,
+		"production_company_id" : 69626
+	},
+	{
+		"movie_id" : 9431,
+		"production_company_id" : 69627
+	},
+	{
+		"movie_id" : 144982,
+		"production_company_id" : 5333
+	},
+	{
+		"movie_id" : 47907,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 10061,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 10061,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 1871
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 5869
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 6849
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 11793
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 16366
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 18367
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 21331
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 78239
+	},
+	{
+		"movie_id" : 36266,
+		"production_company_id" : 78240
+	},
+	{
+		"movie_id" : 549,
+		"production_company_id" : 53009
+	},
+	{
+		"movie_id" : 549,
+		"production_company_id" : 93380
+	},
+	{
+		"movie_id" : 549,
+		"production_company_id" : 93381
+	},
+	{
+		"movie_id" : 10478,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 10478,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 66634,
+		"production_company_id" : 2756
+	},
+	{
+		"movie_id" : 116690,
+		"production_company_id" : 4641
+	},
+	{
+		"movie_id" : 213917,
+		"production_company_id" : 6274
+	},
+	{
+		"movie_id" : 238,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 238,
+		"production_company_id" : 10211
+	},
+	{
+		"movie_id" : 159,
+		"production_company_id" : 47
+	},
+	{
+		"movie_id" : 159,
+		"production_company_id" : 99
+	},
+	{
+		"movie_id" : 11134,
+		"production_company_id" : 2521
+	},
+	{
+		"movie_id" : 11134,
+		"production_company_id" : 3054
+	},
+	{
+		"movie_id" : 88224,
+		"production_company_id" : 2974
+	},
+	{
+		"movie_id" : 132641,
+		"production_company_id" : 882
+	},
+	{
+		"movie_id" : 9303,
+		"production_company_id" : 10308
+	},
+	{
+		"movie_id" : 9303,
+		"production_company_id" : 10355
+	},
+	{
+		"movie_id" : 23945,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 23945,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 37820,
+		"production_company_id" : 8724
+	},
+	{
+		"movie_id" : 37820,
+		"production_company_id" : 11840
+	},
+	{
+		"movie_id" : 37820,
+		"production_company_id" : 31317
+	},
+	{
+		"movie_id" : 22479,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 22479,
+		"production_company_id" : 7832
+	},
+	{
+		"movie_id" : 22479,
+		"production_company_id" : 37163
+	},
+	{
+		"movie_id" : 9054,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 9054,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 9054,
+		"production_company_id" : 961
+	},
+	{
+		"movie_id" : 11985,
+		"production_company_id" : 25345
+	},
+	{
+		"movie_id" : 10232,
+		"production_company_id" : 2592
+	},
+	{
+		"movie_id" : 59569,
+		"production_company_id" : 525
+	},
+	{
+		"movie_id" : 59569,
+		"production_company_id" : 15123
+	},
+	{
+		"movie_id" : 38955,
+		"production_company_id" : 2521
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 657
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 762
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 1280
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 1382
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 4650
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 7237
+	},
+	{
+		"movie_id" : 11015,
+		"production_company_id" : 15278
+	},
+	{
+		"movie_id" : 9306,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 12559,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 12559,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 58770,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 58770,
+		"production_company_id" : 37
+	},
+	{
+		"movie_id" : 58770,
+		"production_company_id" : 56
+	},
+	{
+		"movie_id" : 3587,
+		"production_company_id" : 508
+	},
+	{
+		"movie_id" : 3587,
+		"production_company_id" : 1484
+	},
+	{
+		"movie_id" : 3587,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 10723,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 56077,
+		"production_company_id" : 4169
+	},
+	{
+		"movie_id" : 56077,
+		"production_company_id" : 90100
+	},
+	{
+		"movie_id" : 56077,
+		"production_company_id" : 90101
+	},
+	{
+		"movie_id" : 19004,
+		"production_company_id" : 4285
+	},
+	{
+		"movie_id" : 10987,
+		"production_company_id" : 14
+	},
+	{
+		"movie_id" : 44705,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 44705,
+		"production_company_id" : 288
+	},
+	{
+		"movie_id" : 44705,
+		"production_company_id" : 491
+	},
+	{
+		"movie_id" : 44705,
+		"production_company_id" : 3102
+	},
+	{
+		"movie_id" : 20318,
+		"production_company_id" : 8
+	},
+	{
+		"movie_id" : 43596,
+		"production_company_id" : 52003
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 635
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 4790
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 5358
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 6849
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 11332
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 18367
+	},
+	{
+		"movie_id" : 26933,
+		"production_company_id" : 30576
+	},
+	{
+		"movie_id" : 27854,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 981,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 872,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 13320,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 164,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 164,
+		"production_company_id" : 11355
+	},
+	{
+		"movie_id" : 426,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 426,
+		"production_company_id" : 10715
+	},
+	{
+		"movie_id" : 567,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 3078,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 13528,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 28288,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 213,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 284,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 284,
+		"production_company_id" : 11241
+	},
+	{
+		"movie_id" : 239,
+		"production_company_id" : 219
+	},
+	{
+		"movie_id" : 239,
+		"production_company_id" : 11982
+	},
+	{
+		"movie_id" : 4808,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 289,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 963,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 11113,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 6620,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 804,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 26531,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 770,
+		"production_company_id" : 1553
+	},
+	{
+		"movie_id" : 770,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 31044,
+		"production_company_id" : 5612
+	},
+	{
+		"movie_id" : 31044,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 599,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 15,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 15,
+		"production_company_id" : 11447
+	},
+	{
+		"movie_id" : 62,
+		"production_company_id" : 385
+	},
+	{
+		"movie_id" : 62,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 121357,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 705,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 22490,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 223,
+		"production_company_id" : 1553
+	},
+	{
+		"movie_id" : 25670,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 25670,
+		"production_company_id" : 10096
+	},
+	{
+		"movie_id" : 303,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 4174,
+		"production_company_id" : 1553
+	},
+	{
+		"movie_id" : 8356,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 8356,
+		"production_company_id" : 10917
+	},
+	{
+		"movie_id" : 381,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 20758,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 29376,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 1859,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 18299,
+		"production_company_id" : 4928
+	},
+	{
+		"movie_id" : 17281,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 17281,
+		"production_company_id" : 12668
+	},
+	{
+		"movie_id" : 64382,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 10907,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 32093,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 1939,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 22292,
+		"production_company_id" : 306
+	},
+	{
+		"movie_id" : 3598,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 3080,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 198,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 13562,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 1712,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 220,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 3529,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 3085,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 2897,
+		"production_company_id" : 1258
+	},
+	{
+		"movie_id" : 1585,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 1585,
+		"production_company_id" : 11770
+	},
+	{
+		"movie_id" : 3083,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 900,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 43795,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 85638,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 50001,
+		"production_company_id" : 5235
+	},
+	{
+		"movie_id" : 43905,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 22688,
+		"production_company_id" : 16305
+	},
+	{
+		"movie_id" : 23114,
+		"production_company_id" : 1553
+	},
+	{
+		"movie_id" : 26378,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 40206,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 22356,
+		"production_company_id" : 1432
+	},
+	{
+		"movie_id" : 260,
+		"production_company_id" : 4978
+	},
+	{
+		"movie_id" : 260,
+		"production_company_id" : 10932
+	},
+	{
+		"movie_id" : 43488,
+		"production_company_id" : 4532
+	},
+	{
+		"movie_id" : 43488,
+		"production_company_id" : 15524
+	},
+	{
+		"movie_id" : 22613,
+		"production_company_id" : 12258
+	},
+	{
+		"movie_id" : 10331,
+		"production_company_id" : 638
+	},
+	{
+		"movie_id" : 10331,
+		"production_company_id" : 3139
+	},
+	{
+		"movie_id" : 10331,
+		"production_company_id" : 14121
+	},
+	{
+		"movie_id" : 10331,
+		"production_company_id" : 14122
+	},
+	{
+		"movie_id" : 488,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 488,
+		"production_company_id" : 262
+	},
+	{
+		"movie_id" : 488,
+		"production_company_id" : 3632
+	},
+	{
+		"movie_id" : 22733,
+		"production_company_id" : 3248
+	},
+	{
+		"movie_id" : 22733,
+		"production_company_id" : 3632
+	},
+	{
+		"movie_id" : 22733,
+		"production_company_id" : 15931
+	},
+	{
+		"movie_id" : 261,
+		"production_company_id" : 100
+	},
+	{
+		"movie_id" : 261,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 57575,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 32574,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 32574,
+		"production_company_id" : 9330
+	},
+	{
+		"movie_id" : 22657,
+		"production_company_id" : 60
+	},
+	{
+		"movie_id" : 22657,
+		"production_company_id" : 34103
+	},
+	{
+		"movie_id" : 76464,
+		"production_company_id" : 5999
+	},
+	{
+		"movie_id" : 76464,
+		"production_company_id" : 19729
+	},
+	{
+		"movie_id" : 22649,
+		"production_company_id" : 4
+	},
+	{
+		"movie_id" : 176841,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 125587,
+		"production_company_id" : 181
+	},
+	{
+		"movie_id" : 125587,
+		"production_company_id" : 1898
+	},
+	{
+		"movie_id" : 125587,
+		"production_company_id" : 11358
+	},
+	{
+		"movie_id" : 125587,
+		"production_company_id" : 12745
+	},
+	{
+		"movie_id" : 39448,
+		"production_company_id" : 22060
+	},
+	{
+		"movie_id" : 52855,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 52855,
+		"production_company_id" : 21154
+	},
+	{
+		"movie_id" : 52855,
+		"production_company_id" : 21155
+	},
+	{
+		"movie_id" : 39940,
+		"production_company_id" : 441
+	},
+	{
+		"movie_id" : 85328,
+		"production_company_id" : 38567
+	},
+	{
+		"movie_id" : 11076,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 11076,
+		"production_company_id" : 5842
+	},
+	{
+		"movie_id" : 63945,
+		"production_company_id" : 23098
+	},
+	{
+		"movie_id" : 63945,
+		"production_company_id" : 31551
+	},
+	{
+		"movie_id" : 63945,
+		"production_company_id" : 78106
+	},
+	{
+		"movie_id" : 58985,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 58985,
+		"production_company_id" : 691
+	},
+	{
+		"movie_id" : 58985,
+		"production_company_id" : 17218
+	},
+	{
+		"movie_id" : 890,
+		"production_company_id" : 608
+	},
+	{
+		"movie_id" : 890,
+		"production_company_id" : 610
+	},
+	{
+		"movie_id" : 10861,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 1770,
+		"production_company_id" : 360
+	},
+	{
+		"movie_id" : 1770,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 44465,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 44465,
+		"production_company_id" : 915
+	},
+	{
+		"movie_id" : 2033,
+		"production_company_id" : 887
+	},
+	{
+		"movie_id" : 2033,
+		"production_company_id" : 888
+	},
+	{
+		"movie_id" : 18203,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 9333,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 9333,
+		"production_company_id" : 656
+	},
+	{
+		"movie_id" : 47260,
+		"production_company_id" : 761
+	},
+	{
+		"movie_id" : 47260,
+		"production_company_id" : 11273
+	},
+	{
+		"movie_id" : 47260,
+		"production_company_id" : 20049
+	},
+	{
+		"movie_id" : 9400,
+		"production_company_id" : 12
+	},
+	{
+		"movie_id" : 9401,
+		"production_company_id" : 8411
+	},
+	{
+		"movie_id" : 9401,
+		"production_company_id" : 11661
+	},
+	{
+		"movie_id" : 9401,
+		"production_company_id" : 19529
+	},
+	{
+		"movie_id" : 12241,
+		"production_company_id" : 44774
+	},
+	{
+		"movie_id" : 11306,
+		"production_company_id" : 5
+	},
+	{
+		"movie_id" : 11306,
+		"production_company_id" : 97
+	},
+	{
+		"movie_id" : 11306,
+		"production_company_id" : 10153
+	},
+	{
+		"movie_id" : 9625,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 9625,
+		"production_company_id" : 17825
+	},
+	{
+		"movie_id" : 10680,
+		"production_company_id" : 5888
+	},
+	{
+		"movie_id" : 6346,
+		"production_company_id" : 23
+	},
+	{
+		"movie_id" : 6346,
+		"production_company_id" : 33
+	},
+	{
+		"movie_id" : 6346,
+		"production_company_id" : 1302
+	},
+	{
+		"movie_id" : 18660,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 35115,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 14821,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 14136,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 10869,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 22660,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 19186,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 31102,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 6878,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 6878,
+		"production_company_id" : 8830
+	},
+	{
+		"movie_id" : 15944,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 18444,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 20723,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 173,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 864,
+		"production_company_id" : 5888
+	},
+	{
+		"movie_id" : 24795,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 24795,
+		"production_company_id" : 175
+	},
+	{
+		"movie_id" : 11224,
+		"production_company_id" : 6
+	},
+	{
+		"movie_id" : 11224,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 81310,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 15947,
+		"production_company_id" : 2
+	},
+	{
+		"movie_id" : 9078,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 29682,
+		"production_company_id" : 3166
+	},
+	{
+		"movie_id" : 8367,
+		"production_company_id" : 6194
+	},
+	{
+		"movie_id" : 8367,
+		"production_company_id" : 10210
+	},
+	{
+		"movie_id" : 433,
+		"production_company_id" : 3166
+	}
+]}

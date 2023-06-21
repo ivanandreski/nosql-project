@@ -8,6 +8,7 @@ def create_tables(cursor):
         drop table if exists genres;
         drop table if exists countries;
         drop table if exists production_companies;
+        drop table if exists ratings;
 
         create table genres (
             id bigInt not null,
@@ -71,6 +72,14 @@ def create_tables(cursor):
             primary key(movie_id, country_id),
             foreign key(movie_id) references movies(id),
             foreign key(country_id) references countries(iso_3166_1)
+        );
+
+        create table ratings (
+            movie_id bigInt not null,
+            user_id bigInt not null,
+            rating float,
+
+            primary key(movie_id, user_id)
         );
     """
 

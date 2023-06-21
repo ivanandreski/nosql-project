@@ -1,0 +1,5003 @@
+{
+"ratings": [
+	{
+		"movie_id" : 31,
+		"user_id" : 1,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 1029,
+		"user_id" : 1,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1061,
+		"user_id" : 1,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1129,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1172,
+		"user_id" : 1,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1263,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1287,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1293,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1339,
+		"user_id" : 1,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1343,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1371,
+		"user_id" : 1,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 1405,
+		"user_id" : 1,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1953,
+		"user_id" : 1,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2105,
+		"user_id" : 1,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2150,
+		"user_id" : 1,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2193,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2294,
+		"user_id" : 1,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2455,
+		"user_id" : 1,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 2968,
+		"user_id" : 1,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3671,
+		"user_id" : 1,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 10,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 17,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 39,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 47,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 50,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 52,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 62,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 110,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 144,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 150,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 153,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 161,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 165,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 168,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 185,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 186,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 208,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 222,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 223,
+		"user_id" : 2,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 225,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 235,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 248,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 253,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 261,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 265,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 266,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 272,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 273,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 292,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 296,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 300,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 314,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 317,
+		"user_id" : 2,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 319,
+		"user_id" : 2,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 339,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 349,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 350,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 357,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 364,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 367,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 370,
+		"user_id" : 2,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 371,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 372,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 377,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 382,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 405,
+		"user_id" : 2,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 410,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 454,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 457,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 468,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 474,
+		"user_id" : 2,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 480,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 485,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 497,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 500,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 508,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 509,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 515,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 527,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 537,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 539,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 550,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 551,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 552,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 585,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 586,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 587,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 588,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 589,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 590,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 592,
+		"user_id" : 2,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 593,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 616,
+		"user_id" : 2,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 661,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 720,
+		"user_id" : 2,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 60,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 110,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 247,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 267,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 296,
+		"user_id" : 3,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 318,
+		"user_id" : 3,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 355,
+		"user_id" : 3,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 3,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 377,
+		"user_id" : 3,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 527,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 588,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 592,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 593,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 595,
+		"user_id" : 3,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 736,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 778,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 866,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1197,
+		"user_id" : 3,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1210,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1235,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1271,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1378,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1580,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1721,
+		"user_id" : 3,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1884,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2028,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2318,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2513,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2694,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2702,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2716,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2762,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2841,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2858,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2959,
+		"user_id" : 3,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3243,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3510,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3949,
+		"user_id" : 3,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 5349,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 5669,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 6377,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 7153,
+		"user_id" : 3,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 7361,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 8622,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 8636,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 27369,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 44191,
+		"user_id" : 3,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 48783,
+		"user_id" : 3,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 50068,
+		"user_id" : 3,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 58559,
+		"user_id" : 3,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 84236,
+		"user_id" : 3,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 10,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 34,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 112,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 141,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 153,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 173,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 185,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 260,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 289,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 296,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 329,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 349,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 357,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 364,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 367,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 380,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 410,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 431,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 434,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 435,
+		"user_id" : 4,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 440,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 442,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 464,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 480,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 541,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 588,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 589,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 590,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 594,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 596,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 610,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 616,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 858,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 903,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 910,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 913,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 919,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1011,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1016,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1022,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1028,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1030,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1031,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1032,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1033,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1036,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1073,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1079,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1089,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1097,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1125,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1127,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1136,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1194,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1196,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1197,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1198,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1200,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1206,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1208,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1210,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1213,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1214,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1219,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1220,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1222,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1225,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1230,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1240,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1243,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1257,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1258,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1259,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1265,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1270,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1278,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1282,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1285,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1288,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1291,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1298,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1307,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1332,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1334,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1344,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1356,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1371,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1372,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1374,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1376,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1377,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1380,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1387,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1388,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1396,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1544,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1580,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1663,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1674,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1805,
+		"user_id" : 4,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1858,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1917,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1918,
+		"user_id" : 4,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1953,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1954,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1961,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1967,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1968,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1994,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2000,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2002,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2003,
+		"user_id" : 4,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2005,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2014,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2018,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2020,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2021,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2033,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2034,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2046,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2054,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2064,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2078,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2080,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2081,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2085,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2086,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2087,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2091,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2094,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2096,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2100,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2102,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2105,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2109,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2110,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2114,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2115,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2124,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2140,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2141,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2143,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2144,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2161,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2174,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2193,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2194,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2248,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2263,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2268,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2289,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2348,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2371,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2403,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2406,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2409,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2454,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2467,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2551,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2616,
+		"user_id" : 4,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 2628,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2640,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2659,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2683,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2699,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2716,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2723,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2734,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2770,
+		"user_id" : 4,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 2788,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2791,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2795,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2797,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2804,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2822,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2867,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2872,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2877,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2902,
+		"user_id" : 4,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2903,
+		"user_id" : 4,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 2916,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2918,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2968,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2986,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2987,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2991,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3016,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3034,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3039,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3040,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3060,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3071,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3101,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3104,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3108,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3169,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3208,
+		"user_id" : 4,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3210,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3251,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3255,
+		"user_id" : 4,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3263,
+		"user_id" : 4,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3265,
+		"user_id" : 4,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 4006,
+		"user_id" : 4,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 39,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 104,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 141,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 150,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 231,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 277,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 344,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 364,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 367,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 377,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 440,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 500,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 586,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 588,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 595,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 597,
+		"user_id" : 5,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 788,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 858,
+		"user_id" : 5,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 903,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 919,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1022,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1035,
+		"user_id" : 5,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1193,
+		"user_id" : 5,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1221,
+		"user_id" : 5,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 1247,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1307,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1380,
+		"user_id" : 5,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1393,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1485,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1544,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1682,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1721,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1777,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1784,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1923,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1961,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1968,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1997,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2023,
+		"user_id" : 5,
+		"rating" : 1.5
+	},
+	{
+		"movie_id" : 2081,
+		"user_id" : 5,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2273,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2294,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2355,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2424,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2502,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2683,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2694,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2706,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2762,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2770,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2918,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2997,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3114,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3176,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3408,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3753,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3897,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 3948,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4014,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 4018,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 4022,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4025,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4306,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4308,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4447,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4718,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4963,
+		"user_id" : 5,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 4995,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 5266,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 5299,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 5349,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 5464,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 5669,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 5679,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 5816,
+		"user_id" : 5,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 5995,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6218,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 6373,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6377,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6502,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6711,
+		"user_id" : 5,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 6942,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8376,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8464,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8622,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 8636,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 8644,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 30707,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 30749,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 30793,
+		"user_id" : 5,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 33166,
+		"user_id" : 5,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 33679,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 34162,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 35836,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 40819,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 41566,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 41569,
+		"user_id" : 5,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 48385,
+		"user_id" : 5,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 111,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 158,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 173,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 293,
+		"user_id" : 6,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 596,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 903,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1204,
+		"user_id" : 6,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1250,
+		"user_id" : 6,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1259,
+		"user_id" : 6,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1276,
+		"user_id" : 6,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1285,
+		"user_id" : 6,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1358,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1639,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1687,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1747,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1876,
+		"user_id" : 6,
+		"rating" : 0.5
+	},
+	{
+		"movie_id" : 1909,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2001,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2019,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2072,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2174,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2502,
+		"user_id" : 6,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2528,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2529,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2571,
+		"user_id" : 6,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 2657,
+		"user_id" : 6,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2692,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2723,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2761,
+		"user_id" : 6,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2890,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3052,
+		"user_id" : 6,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3114,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3300,
+		"user_id" : 6,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3751,
+		"user_id" : 6,
+		"rating" : 1.5
+	},
+	{
+		"movie_id" : 4641,
+		"user_id" : 6,
+		"rating" : 1.5
+	},
+	{
+		"movie_id" : 4975,
+		"user_id" : 6,
+		"rating" : 1.5
+	},
+	{
+		"movie_id" : 5952,
+		"user_id" : 6,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 7090,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 7153,
+		"user_id" : 6,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 7361,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8368,
+		"user_id" : 6,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 8636,
+		"user_id" : 6,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8784,
+		"user_id" : 6,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 8874,
+		"user_id" : 6,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 10,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 21,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 31,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 34,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 40,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 104,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 110,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 112,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 141,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 151,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 198,
+		"user_id" : 7,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 207,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 260,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 272,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 316,
+		"user_id" : 7,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 318,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 329,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 333,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 345,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 355,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 357,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 364,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 367,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 377,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 380,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 480,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 500,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 534,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 539,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 541,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 551,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 588,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 589,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 590,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 592,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 594,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 595,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 610,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 671,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 708,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 720,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 724,
+		"user_id" : 7,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 736,
+		"user_id" : 7,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 737,
+		"user_id" : 7,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 745,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 780,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 786,
+		"user_id" : 7,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 924,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1036,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1073,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1079,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1080,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1097,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1125,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1129,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1136,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1148,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1196,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1197,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1198,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1210,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1220,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1223,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1225,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1231,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1240,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1242,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1270,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1275,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1278,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1287,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1288,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1291,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1298,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1302,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1307,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1353,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1371,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1372,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1373,
+		"user_id" : 7,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1374,
+		"user_id" : 7,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1375,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1376,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1394,
+		"user_id" : 7,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1405,
+		"user_id" : 7,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1408,
+		"user_id" : 7,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 32,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 45,
+		"user_id" : 8,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 47,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 50,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 110,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 260,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 282,
+		"user_id" : 8,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 296,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 318,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 457,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 520,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 524,
+		"user_id" : 8,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 527,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 543,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 589,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 593,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 628,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 805,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 858,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1196,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1197,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1198,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1210,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1219,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1225,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1258,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1259,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1265,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1270,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1291,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1302,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1358,
+		"user_id" : 8,
+		"rating" : 0.5
+	},
+	{
+		"movie_id" : 1387,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1393,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1500,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1552,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1617,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1625,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1674,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1704,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1754,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1777,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1876,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1961,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2028,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2100,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2139,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2194,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2302,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2324,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2329,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2353,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2423,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2502,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2571,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2716,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2762,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2770,
+		"user_id" : 8,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 2791,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2797,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2804,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2841,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2858,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2918,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2959,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3147,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 3578,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3916,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3948,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3996,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 4011,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4019,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4034,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4226,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 4262,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 4448,
+		"user_id" : 8,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 4886,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4896,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4963,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4973,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 4993,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4995,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 5064,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 5378,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 5445,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 5464,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 5630,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 5650,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 5669,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 5952,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 5989,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 6377,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6378,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 6870,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6874,
+		"user_id" : 8,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 6879,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 7143,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 7153,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 7361,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 7438,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8533,
+		"user_id" : 8,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 8784,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 8873,
+		"user_id" : 8,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 8874,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 32587,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 33166,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 33493,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 33794,
+		"user_id" : 8,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 34162,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 40583,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 40819,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 42007,
+		"user_id" : 8,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 43556,
+		"user_id" : 8,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 43871,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 44004,
+		"user_id" : 8,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 17,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 26,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 36,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 47,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 318,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 497,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 515,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 527,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 534,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 593,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 608,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 733,
+		"user_id" : 9,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1059,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1177,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1357,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1358,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1411,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1541,
+		"user_id" : 9,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1584,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1680,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1682,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1704,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1721,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1784,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2028,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2125,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2140,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2249,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2268,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2273,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2278,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2291,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2294,
+		"user_id" : 9,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2302,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2391,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2396,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2427,
+		"user_id" : 9,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2490,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2501,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2539,
+		"user_id" : 9,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2571,
+		"user_id" : 9,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2628,
+		"user_id" : 9,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2762,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2857,
+		"user_id" : 9,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 50,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 152,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 318,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 344,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 345,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 592,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 735,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1036,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1089,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1101,
+		"user_id" : 10,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1127,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1196,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1197,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1198,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1200,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1210,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1220,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1240,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1291,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1358,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1423,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1459,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1499,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1611,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1690,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1704,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1719,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1887,
+		"user_id" : 10,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1923,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2108,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2344,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2406,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2410,
+		"user_id" : 10,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2539,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2571,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2826,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2827,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2840,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2841,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2881,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2890,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2907,
+		"user_id" : 10,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2926,
+		"user_id" : 10,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 2995,
+		"user_id" : 10,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3005,
+		"user_id" : 10,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3019,
+		"user_id" : 10,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 50,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 70,
+		"user_id" : 11,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 126,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 169,
+		"user_id" : 11,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 296,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 778,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 785,
+		"user_id" : 11,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 923,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1027,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 1201,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1408,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1918,
+		"user_id" : 11,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2042,
+		"user_id" : 11,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2596,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 2762,
+		"user_id" : 11,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3424,
+		"user_id" : 11,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 5669,
+		"user_id" : 11,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 6598,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 26614,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 48516,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 51084,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 58295,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 71211,
+		"user_id" : 11,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 77455,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 79132,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 80489,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 80906,
+		"user_id" : 11,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 81158,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 81562,
+		"user_id" : 11,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 88129,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 91500,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 91529,
+		"user_id" : 11,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 91548,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 96079,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 96861,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 97938,
+		"user_id" : 11,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 104841,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 106487,
+		"user_id" : 11,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 253,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 529,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 538,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 608,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 673,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 736,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 737,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1028,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1032,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1077,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1197,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1215,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1220,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1230,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1235,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 1295,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1374,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1387,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1639,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 1732,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2259,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2355,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2460,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2529,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 2668,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2959,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3146,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3148,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3176,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3179,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3298,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3324,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3408,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3474,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3770,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3773,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3780,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3791,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3793,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3794,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3798,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3799,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3801,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3809,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3825,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3827,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3829,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3831,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3841,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3844,
+		"user_id" : 12,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 3861,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3863,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3864,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3865,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3869,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3871,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3873,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3879,
+		"user_id" : 12,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3885,
+		"user_id" : 12,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3886,
+		"user_id" : 12,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 6184,
+		"user_id" : 12,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1,
+		"user_id" : 13,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 47,
+		"user_id" : 13,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 110,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 277,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 296,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 318,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 356,
+		"user_id" : 13,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 362,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 480,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 524,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 527,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 531,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 587,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 590,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 914,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 919,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 1027,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1259,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1265,
+		"user_id" : 13,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 1918,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 1961,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2355,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2571,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2572,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 2761,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 2762,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2804,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2908,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2918,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3114,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3147,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3255,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3396,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 3624,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 4306,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 4310,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4321,
+		"user_id" : 13,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 4718,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4878,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 4886,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 4993,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 5989,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 6377,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 7361,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 7502,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 54286,
+		"user_id" : 13,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 58559,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 64614,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 69757,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 78499,
+		"user_id" : 13,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 81834,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 88125,
+		"user_id" : 13,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 93363,
+		"user_id" : 13,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 594,
+		"user_id" : 14,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 1196,
+		"user_id" : 14,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1721,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2038,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2355,
+		"user_id" : 14,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2394,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2628,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2683,
+		"user_id" : 14,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2716,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2720,
+		"user_id" : 14,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2724,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 2861,
+		"user_id" : 14,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3114,
+		"user_id" : 14,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3157,
+		"user_id" : 14,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 3175,
+		"user_id" : 14,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 3354,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3623,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3751,
+		"user_id" : 14,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 3986,
+		"user_id" : 14,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 3988,
+		"user_id" : 14,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 1,
+		"user_id" : 15,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 2,
+		"user_id" : 15,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 5,
+		"user_id" : 15,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 6,
+		"user_id" : 15,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 10,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 11,
+		"user_id" : 15,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 14,
+		"user_id" : 15,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 16,
+		"user_id" : 15,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 17,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 19,
+		"user_id" : 15,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 21,
+		"user_id" : 15,
+		"rating" : 4.5
+	},
+	{
+		"movie_id" : 22,
+		"user_id" : 15,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 25,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 32,
+		"user_id" : 15,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 34,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 36,
+		"user_id" : 15,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 39,
+		"user_id" : 15,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 44,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 47,
+		"user_id" : 15,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 50,
+		"user_id" : 15,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 52,
+		"user_id" : 15,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 62,
+		"user_id" : 15,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 70,
+		"user_id" : 15,
+		"rating" : 0.5
+	},
+	{
+		"movie_id" : 82,
+		"user_id" : 15,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 94,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 95,
+		"user_id" : 15,
+		"rating" : 1.5
+	},
+	{
+		"movie_id" : 101,
+		"user_id" : 15,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 104,
+		"user_id" : 15,
+		"rating" : 1.0
+	},
+	{
+		"movie_id" : 107,
+		"user_id" : 15,
+		"rating" : 2.0
+	},
+	{
+		"movie_id" : 110,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 111,
+		"user_id" : 15,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 112,
+		"user_id" : 15,
+		"rating" : 2.5
+	},
+	{
+		"movie_id" : 123,
+		"user_id" : 15,
+		"rating" : 4.0
+	},
+	{
+		"movie_id" : 125,
+		"user_id" : 15,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 145,
+		"user_id" : 15,
+		"rating" : 3.5
+	},
+	{
+		"movie_id" : 149,
+		"user_id" : 15,
+		"rating" : 5.0
+	},
+	{
+		"movie_id" : 150,
+		"user_id" : 15,
+		"rating" : 3.0
+	},
+	{
+		"movie_id" : 153,
+		"user_id" : 15,
+		"rating" : 1.0
+	}
+]}
